@@ -16,12 +16,13 @@ REAL_PRODUCT
 
 ## Categories
 
-- `Costume`：通用服装。
-- `Yunjian`：云肩及肩部装饰层。
-- `Hanfu`：汉服及相关传统服饰。
-- `Accessory`：腰封、胸针、披帛、手持道具等配饰。
-- `Hair Ornament`：头饰、发簪、冠饰及其他发部装饰。
-- `Stage Costume`：为舞台表演设计或改造的专用服装。
+- `YUNJIAN`：云肩及围绕肩颈的中式装饰结构。
+- `COSTUME`：上装、下装、整身服装、外罩、套装及舞台服装主体。
+- `ACCESSORY`：头饰、腰封、胸针、披帛、手持道具及其他非服装主体配饰。
+- `COLOR_PALETTE`：色卡、配色方案与舞台色彩参考。
+- `UNCLASSIFIED`：无法稳定判断或不符合其他 Category 的技术性、混合或待复核资料。
+
+Hanfu、Hair Ornament、Stage Costume 等概念作为 `tags`、`layer` 或未来 subtype 使用，不再作为顶层 Category。
 
 ## Asset Lifecycle
 
