@@ -1,0 +1,133 @@
+{
+  "version": "1.0",
+  "fieldSpecification": {
+    "requiredFields": [
+      "assetId",
+      "sourceType",
+      "category",
+      "layer",
+      "name",
+      "description",
+      "referenceImages",
+      "stageOSUsage",
+      "status"
+    ],
+    "properties": {
+      "assetId": {
+        "type": "string"
+      },
+      "sourceType": {
+        "type": "string"
+      },
+      "category": {
+        "type": "string",
+        "allowedValues": [
+          "Yunjian",
+          "Traditional_Costume",
+          "Accessory",
+          "Hair_Ornament",
+          "Stage_Costume"
+        ]
+      },
+      "layer": {
+        "type": "string"
+      },
+      "name": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      },
+      "referenceImages": {
+        "type": "array",
+        "items": "string"
+      },
+      "stageOSUsage": {
+        "type": "array",
+        "items": "string"
+      },
+      "status": {
+        "type": "string",
+        "allowedValues": [
+          "REAL_PRODUCT",
+          "DIGITAL_REFERENCE",
+          "PLANNED"
+        ]
+      },
+      "visualSearch": {
+        "type": "object",
+        "planned": true,
+        "description": "Future image search capability; structure to be defined before implementation."
+      },
+      "searchKeywords": {
+        "type": "array",
+        "items": "string",
+        "planned": true,
+        "description": "Human- or AI-generated search keywords."
+      },
+      "productMatchStatus": {
+        "type": "string",
+        "planned": true,
+        "allowedValues": [
+          "EXACT_MATCH",
+          "SIMILAR_MATCH",
+          "INSPIRED_MATCH",
+          "NOT_FOUND"
+        ]
+      }
+    }
+  },
+  "assets": [
+    {
+      "assetId": "YUNJIAN_001",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "Yunjian",
+      "layer": "Shoulder",
+      "name": "云肩图片参考 001",
+      "description": "用户提供的云肩服饰图片参考记录；当前未确认可索引的本地图片文件名，未关联商品信息。",
+      "referenceImages": [],
+      "stageOSUsage": [
+        "Shoulder Layer 视觉设计参考"
+      ],
+      "visualSearch": {
+        "enabled": true
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "status": "DIGITAL_REFERENCE"
+    },
+    {
+      "assetId": "YUNJIAN_002",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "Yunjian",
+      "layer": "Shoulder",
+      "name": "云肩图片参考 002",
+      "description": "用户提供的云肩服饰图片参考记录；当前未确认可索引的本地图片文件名，未关联商品信息。",
+      "referenceImages": [],
+      "stageOSUsage": [
+        "Shoulder Layer 视觉设计参考"
+      ],
+      "visualSearch": {
+        "enabled": true
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "status": "DIGITAL_REFERENCE"
+    },
+    {
+      "assetId": "YUNJIAN_003",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "Yunjian",
+      "layer": "Shoulder",
+      "name": "云肩图片参考 003",
+      "description": "用户提供的云肩服饰图片参考记录；当前未确认可索引的本地图片文件名，未关联商品信息。",
+      "referenceImages": [],
+      "stageOSUsage": [
+        "Shoulder Layer 视觉设计参考"
+      ],
+      "visualSearch": {
+        "enabled": true
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "status": "DIGITAL_REFERENCE"
+    }
+  ]
+}
