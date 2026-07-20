@@ -1,0 +1,3365 @@
+{
+  "version": "1.0",
+  "category": "YUNJIAN",
+  "count": 73,
+  "assets": [
+    {
+      "assetId": "YUNJIAN_001",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12910.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_001/IMG_12910.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 001",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_001/IMG_12910.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "4490fde9a16745a7e1dd27ce647a52204ded98c20ae1c5ab676679ee99723ef8",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_002",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12911.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_002/IMG_12911.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 002",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_002/IMG_12911.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "dcb67162b98d6f4beb1ea4db3d52fe1b08f84344e2e6490425db12952c018fca",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_003",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12912.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_003/IMG_12912.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 003",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_003/IMG_12912.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "8420bcfb2773d583358304c1d62ad3b3290367b6cef16ce0a3d3733695f3245a",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_004",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12913.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_004/IMG_12913.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 004",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_004/IMG_12913.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "3f096131b85866b39a5ba6dab0d5ef7bb01b0028d95da2db35121569e833e6ec",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_005",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12926.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_005/IMG_12926.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 005",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_005/IMG_12926.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1920,
+        "height": 1920,
+        "sha256": "bb2ff6853bdd8bc355b9fb26f8585c42dd0ca04b8ea1a3242460b63ed40ffae9",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_006",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12947.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_006/IMG_12947.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 006",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_006/IMG_12947.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "42bb2f01ee642cf39a03d44533ea6dc2e10e2dfbbbfcbf799c63c446d84aa464",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_007",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13120.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_007/IMG_13120.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 007",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_007/IMG_13120.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1340,
+        "height": 1785,
+        "sha256": "73765f237afe1c70a4ffb5373601093128a19da9c77704cccfd698e015d07568",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_008",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13121.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_008/IMG_13121.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 008",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_008/IMG_13121.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1340,
+        "height": 1785,
+        "sha256": "c9e3510e7a1f89406d71529ee6d632e7240ed6dc17ec0e4850840b70e719e7dd",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_009",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13122.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_009/IMG_13122.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 009",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_009/IMG_13122.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1340,
+        "height": 1785,
+        "sha256": "ff0fe6196dae062a33e1439be323defa56eafc4f651f3edc914ad71748d3e3a3",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_010",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13123.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_010/IMG_13123.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 010",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_010/IMG_13123.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "a2494e4507b42ab9d31325546f3b15010030b24fb4b1b255d0809f1f527e7bf8",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_011",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13124.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_011/IMG_13124.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 011",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_011/IMG_13124.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1920,
+        "height": 1920,
+        "sha256": "ab80e65d61762e28b1a4f5d7ed68b3123c1cb97fcf2c8e4eada4dbac69bd2bdb",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_012",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13125.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_012/IMG_13125.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 012",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_012/IMG_13125.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 2992,
+        "height": 2992,
+        "sha256": "f5d8d26423470a9a008db0fb27717c2516c05e51292aed0ce16254f31e0c4658",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_013",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13126.png",
+      "storedPath": "extracted/yunjian/YUNJIAN_013/IMG_13126.png",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 013",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_013/IMG_13126.png"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1216,
+        "height": 1622,
+        "sha256": "376e07f65c125c58bb778f5637df73d09fcd2abed688f5d88cbcaf8789b8b41c",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_014",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13127.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_014/IMG_13127.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 014",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_014/IMG_13127.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 2992,
+        "height": 2992,
+        "sha256": "29a275da90ed89ed1f6606ee8a61e7ad0324a35667d5b3dde71d6ee4129f77ed",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_015",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13128.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_015/IMG_13128.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 015",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_015/IMG_13128.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 720,
+        "height": 960,
+        "sha256": "d441d9189536423f9031eaf5beb0022b4030cccab6d01f85512dcc15fb6d3a59",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_016",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13129.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_016/IMG_13129.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 016",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_016/IMG_13129.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 917,
+        "height": 917,
+        "sha256": "4da2ca8c7c94f2ca67fb135c8f93039702912eadd00b4f4b94644863e9c872ad",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_017",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13130.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_017/IMG_13130.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 017",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_017/IMG_13130.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "c7de0feaa4e4aea67b3ec5914678caab40f1cbffb6fea07588b25358c20447ef",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_018",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13131.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_018/IMG_13131.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 018",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_018/IMG_13131.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "77aeb27e917274b8d9546eadabcc0ec4bb8128c4d51f698981b505d957cc139a",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_019",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13132.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_019/IMG_13132.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 019",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_019/IMG_13132.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "0c3b40cf56d352652596d9e8e12b5f363f78e592c06f39a11a9cf1e53fb9f8fa",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_020",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13133.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_020/IMG_13133.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 020",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_020/IMG_13133.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1200,
+        "height": 1600,
+        "sha256": "4645873259753ed82823d4d5be24b74b83fe26054ac10aab53b8715ba8867ec4",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_021",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13134.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_021/IMG_13134.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 021",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_021/IMG_13134.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "dd81f302871ceee0f6717f5d4014c07a5358b2553ee2513e478d894634d188d7",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_022",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13135.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_022/IMG_13135.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 022",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_022/IMG_13135.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "ff22865980e6bc35db48c494ce7945782cf2ecdf3aa7c004908836018ada836e",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_023",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13136.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_023/IMG_13136.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 023",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_023/IMG_13136.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "e4f487cbbc83d4ba4793409ae443b0f7b8c9145935a1b58b99a10633b5dce98a",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_024",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12790.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_024/IMG_12790.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 024",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_024/IMG_12790.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "ed48f6558df2a32bd8026493e46e97f7c11c3ee46a1060161cefba3f7af279a5",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_025",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12791.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_025/IMG_12791.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 025",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_025/IMG_12791.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "4db723c6cc66a3952e78c4dd4a58d4a0da7d4302972655f6f1068e85776d76ab",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_026",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12792.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_026/IMG_12792.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 026",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_026/IMG_12792.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "48a6bef4b1dcc31e72aa780a50cd165cd8488bd393998eb1442288cfd6a205df",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_027",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12793.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_027/IMG_12793.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 027",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_027/IMG_12793.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "48008548b5c901c22d585f524b902f49948c60a0d1e559e5390cab6838bb613a",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_028",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12794.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_028/IMG_12794.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 028",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_028/IMG_12794.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "06b3bc612ea6ad580483ff8b15a3fcabcedcb3e5806e162d2f1f1ae4b5c60fb3",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_029",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12795.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_029/IMG_12795.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 029",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_029/IMG_12795.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "51d9144422633a753f605672401bfd3bfc28d2db7e3bbb95dbdb2221ba75aa86",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_030",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12796.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_030/IMG_12796.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 030",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_030/IMG_12796.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "9144166cc88693d21d7faffe0433871bff8ad25edef6ba9b76459cb717018fa8",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_031",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12797.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_031/IMG_12797.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 031",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_031/IMG_12797.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "351bff9e14c0fccfeba730cb7d56cd7c0c11fee15abe08f2c691192fb8b15386",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_032",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12798.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_032/IMG_12798.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 032",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_032/IMG_12798.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "1230d218b88cbac6b311b6501b66f5292f1fc0e4df1a7a31af46ba9d0725a7a0",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_033",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12799.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_033/IMG_12799.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 033",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_033/IMG_12799.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "8588c0952495537ffb943f609d3f49d329ffcce737e1f65b708ab76e4ebbc025",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_034",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12800.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_034/IMG_12800.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 034",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_034/IMG_12800.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 2037,
+        "sha256": "ac19471a6f2d250a9b6913aaf4be186097b180f26afb95473dba0c3062929e85",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_035",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12801.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_035/IMG_12801.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 035",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_035/IMG_12801.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 2036,
+        "sha256": "942befd3a8c142af595dbfa577fa7749cb27274cdb2beac9ec50c6e49f9530e2",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_036",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12802.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_036/IMG_12802.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 036",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_036/IMG_12802.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 2036,
+        "sha256": "1abfb4448b0cc9d295c6c31099f709d0a93f2a302c02e5770a5d0df6a7390486",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_037",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12803.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_037/IMG_12803.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 037",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_037/IMG_12803.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 2036,
+        "sha256": "b5981725c12bbddb4e722ad81c6557bf33758dd605ecf4892a7e618be1c7af5e",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_038",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12804.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_038/IMG_12804.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 038",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_038/IMG_12804.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 2036,
+        "sha256": "8f63b28c7088ac1a1519fef95a6a99847b13fa7d6867bbb78bf7149e097b01d4",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_039",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12805.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_039/IMG_12805.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 039",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_039/IMG_12805.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 2036,
+        "sha256": "71443f2de2a1079111fd819271c0cb0f566ceea1de37feca5827e40b81136492",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_040",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12806.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_040/IMG_12806.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 040",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_040/IMG_12806.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "43a0c4cd549bb51abbe6d4de384d84a500f661bdae5bfdb173fe8594c0cd22ee",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_041",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12807.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_041/IMG_12807.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 041",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_041/IMG_12807.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "d5b78725db2082572c0b8551602b849931a8078ded0c1281f0645a674fb1e45b",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_042",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12808.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_042/IMG_12808.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 042",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_042/IMG_12808.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "08e46dea891390eb53d071055e516ee105f0caa67e437910dbcaabeb4aa01c67",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_043",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12809.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_043/IMG_12809.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 043",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_043/IMG_12809.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "abd72f4ed9b3adfefe64ff20ab14758d3567b9b95d9c9b08c979965c2490930d",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_044",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12810.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_044/IMG_12810.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 044",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_044/IMG_12810.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1080,
+        "height": 1080,
+        "sha256": "506e4d7756790b6a02571631ae1e830bc36c25a6fa256fe6dd8ee49d332aaf45",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_045",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12811.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_045/IMG_12811.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 045",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_045/IMG_12811.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1134,
+        "sha256": "364bda9e801189821890abbd520b7aaf94995dbfc510630f0f8946d8791a1168",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_046",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12812.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_046/IMG_12812.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 046",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_046/IMG_12812.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1200,
+        "height": 2138,
+        "sha256": "c81842814e5c16b4ba88a31c4f0c45644631b87b90646dff25c5e150d94b7a86",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_047",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12813.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_047/IMG_12813.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 047",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_047/IMG_12813.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1086,
+        "height": 1448,
+        "sha256": "52124a84d0cb3f199002cd18999b1925e145235c3341250e0d49c077382fe653",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_048",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12814.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_048/IMG_12814.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 048",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_048/IMG_12814.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1086,
+        "height": 1448,
+        "sha256": "aec96919527cbd84a2ce72d3623403d8baf3bacfdff4771655e20216d7f13572",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_049",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12815.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_049/IMG_12815.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 049",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_049/IMG_12815.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1086,
+        "height": 1448,
+        "sha256": "ea5c57f0ab6f55f1995f448f4fd746549efc0593a4fd7567f300c36a8048dee4",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_050",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12816.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_050/IMG_12816.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 050",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_050/IMG_12816.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1086,
+        "height": 1448,
+        "sha256": "ace743aca701443eea2bb505c0ff1e9627b7ac87b70204dc9b4a14c8a6cf9b7f",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_051",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12817.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_051/IMG_12817.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 051",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_051/IMG_12817.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1086,
+        "height": 1448,
+        "sha256": "1e3c40dec9f40d72b3942bc4dfa5133d44d852ca632a000e3a105b03c9057741",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_052",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12818.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_052/IMG_12818.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 052",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_052/IMG_12818.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1929,
+        "sha256": "8a25a3cebfa7362575166aed942e684a0b8e9fdad75ae52a93c8437823ed0b74",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_053",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12819.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_053/IMG_12819.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 053",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_053/IMG_12819.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1417,
+        "height": 1890,
+        "sha256": "11d23c68854b306bb1d8d519b44d1da1a7e5379901c89920234c9067702e457b",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_054",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12820.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_054/IMG_12820.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 054",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_054/IMG_12820.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1417,
+        "height": 1890,
+        "sha256": "9049d79d5fde22ee5de98fc48c9dc0b1245ade5f0adf21fbae7341d7d7809a5f",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_055",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12821.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_055/IMG_12821.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 055",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_055/IMG_12821.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "d3f6458f0a159e4c3e4c7357b2dacc04f4fec06306a435477666a3afe8e4c868",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_056",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12822.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_056/IMG_12822.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 056",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_056/IMG_12822.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "319f3c50abcd8710979d2443aaa5c2bd5d3353e229f7a086d2f4d76ef7119526",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_057",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12823.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_057/IMG_12823.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 057",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_057/IMG_12823.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 960,
+        "height": 1280,
+        "sha256": "2895c55328ca6b1f91a5d20a807a83eb25cbbddb803f7638a56c9175ee6c9caf",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_058",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12824.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_058/IMG_12824.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 058",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_058/IMG_12824.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "1560a59179d59a69ab19b89cd38193431661d19c0a33622419e06f553cebc000",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_059",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12825.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_059/IMG_12825.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 059",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_059/IMG_12825.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1289,
+        "sha256": "5d46477bc94386e6bd5f4e694caa1340e996aa8e6390ca79f3517fe20977adb6",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_060",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12826.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_060/IMG_12826.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 060",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_060/IMG_12826.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1435,
+        "sha256": "9fe7b9bb1dddfa9229a439ad71571682f5e492f69b0da65f5736fe598cf1e632",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_061",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12827.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_061/IMG_12827.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 061",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_061/IMG_12827.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1435,
+        "sha256": "a0b0d30f8ba5aa62db32b450af7605e65cfe9c2bdd2f57afbcb5a6f67d157948",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_062",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12828.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_062/IMG_12828.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 062",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_062/IMG_12828.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1435,
+        "sha256": "9af95452931c3e63c0960234a0568f316ecc6e4a156cb93ee7b427c4e008dea4",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_063",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12829.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_063/IMG_12829.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 063",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_063/IMG_12829.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1435,
+        "sha256": "3537c41da61d95f5a4be1943e28c592c25209fb8679138a08bfdd99deeb646a4",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_064",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12830.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_064/IMG_12830.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 064",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_064/IMG_12830.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1435,
+        "sha256": "f85609659a43c1f25d4e7700bcf1b8639cf67d55851a8d013ce8ccaa00dd5d37",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_065",
+      "sourceZip": "StageOS_Yunjian_50_part01_of_02.zip",
+      "originalFileName": "IMG_12831.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_065/IMG_12831.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 065",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_065/IMG_12831.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1929,
+        "sha256": "e15dc1a5dae61051314984a07037f5ef9c0fa391350f66e165372c7f24c8a0d9",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_066",
+      "sourceZip": "StageOS_Yunjian_50_part02_of_02.zip",
+      "originalFileName": "IMG_12832.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_066/IMG_12832.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 066",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_066/IMG_12832.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "fd52863f3e52ca0eb23661962141f6fdebdb422aa6ab734d540ba40b60f475fa",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_067",
+      "sourceZip": "StageOS_Yunjian_50_part02_of_02.zip",
+      "originalFileName": "IMG_12833.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_067/IMG_12833.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 067",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_067/IMG_12833.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "0ec79c09431cad41494a34c7180987aa08c51e61411845ba1c47178a9b056b4b",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_068",
+      "sourceZip": "StageOS_Yunjian_50_part02_of_02.zip",
+      "originalFileName": "IMG_12834.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_068/IMG_12834.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 068",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_068/IMG_12834.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "0c612febbdf098d879eea859ebdfbbd9e02ca216d4952cd62961b3e485910d09",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_069",
+      "sourceZip": "StageOS_Yunjian_50_part02_of_02.zip",
+      "originalFileName": "IMG_12835.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_069/IMG_12835.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 069",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_069/IMG_12835.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "7939b9d5c625fe19793bc87948820e553354364f3932c1140d8a0cf296cb8fe1",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_070",
+      "sourceZip": "StageOS_Yunjian_50_part02_of_02.zip",
+      "originalFileName": "IMG_12836.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_070/IMG_12836.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 070",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_070/IMG_12836.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "408d67db1f51379516e6e671d507ac7a6d18be3ddbc1e9af5333f347883118a0",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_071",
+      "sourceZip": "StageOS_Yunjian_50_part02_of_02.zip",
+      "originalFileName": "IMG_12837.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_071/IMG_12837.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 071",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_071/IMG_12837.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "a68a0032d81f4d82a92c108aa3b12bc159dededbd4686ac9abdcadc413829ea4",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_072",
+      "sourceZip": "StageOS_Yunjian_50_part02_of_02.zip",
+      "originalFileName": "IMG_12838.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_072/IMG_12838.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 072",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_072/IMG_12838.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "ebd1ed6f2ad00c944aacd41c1b438932d752794cbf47858dec859e43228be526",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "YUNJIAN_073",
+      "sourceZip": "StageOS_Yunjian_50_part02_of_02.zip",
+      "originalFileName": "IMG_12839.jpg",
+      "storedPath": "extracted/yunjian/YUNJIAN_073/IMG_12839.jpg",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Yunjian Reference 073",
+      "description": "云肩或围绕肩颈的中式装饰结构数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "yunjian",
+        "shoulder-layer",
+        "chinese-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "ChineseDance",
+        "FolkStyle",
+        "StagePerformance"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "云肩",
+          "肩颈装饰",
+          "中式服饰配件",
+          "yunjian"
+        ]
+      },
+      "referenceImages": [
+        "extracted/yunjian/YUNJIAN_073/IMG_12839.jpg"
+      ],
+      "notes": "classification_basis=source-manifest; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "89584a5656bc7aba393e3a84aebdf14f5dd21b84eace1d75f62c3c2bea329d61",
+        "format": "jpg"
+      }
+    }
+  ]
+}

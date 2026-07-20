@@ -1,0 +1,6769 @@
+{
+  "version": "1.0",
+  "category": "ACCESSORY",
+  "count": 147,
+  "assets": [
+    {
+      "assetId": "ACCESSORY_001",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12888.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_001/IMG_12888.jpg",
+      "category": "ACCESSORY",
+      "layer": "Waist",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 001",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "waist",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Waist",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_001/IMG_12888.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "669976d9052d752347a0b88caee7ea360f493584da54096976f84b42212eba63",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_002",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12889.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_002/IMG_12889.jpg",
+      "category": "ACCESSORY",
+      "layer": "OtherAccessory",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 002",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "otheraccessory",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "OtherAccessory",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_002/IMG_12889.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "053343382ffea0851f712028d658419ad02c2ee165a51944cb6feb135d9a3566",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_003",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12890.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_003/IMG_12890.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 003",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_003/IMG_12890.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 3648,
+        "height": 3648,
+        "sha256": "3bcd9cad1bd652fe90af235eabfb154459e0bfa269393000c77764375e66a676",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_004",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12891.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_004/IMG_12891.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 004",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_004/IMG_12891.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 3648,
+        "height": 4864,
+        "sha256": "675855a4b5d40a6febdb1c9c3418b6ae04e94f7ed25afb15ce4250145380f1a8",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_005",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12892.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_005/IMG_12892.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 005",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_005/IMG_12892.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 3648,
+        "height": 4864,
+        "sha256": "5f02b01f12ebb221e2e8152fa33696b5d560e1c7c7ec93e9bea77056c3d28079",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_006",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12893.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_006/IMG_12893.jpg",
+      "category": "ACCESSORY",
+      "layer": "OtherAccessory",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 006",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "otheraccessory",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "OtherAccessory",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_006/IMG_12893.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "7f44b5f0c2c1af441aae64d19d639e9031796e71d1bbb1f8b75bd1d573435f41",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_007",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12894.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_007/IMG_12894.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 007",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_007/IMG_12894.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 796,
+        "height": 1062,
+        "sha256": "0eee3b657251a9848981728fa28fcd684be1df77522124689b978574bb49be4b",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_008",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12895.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_008/IMG_12895.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 008",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_008/IMG_12895.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "4d8726683d9b69da0e5a2cedda0b801a0264a6cce551c48ec9ad6c31da1aa0b1",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_009",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12896.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_009/IMG_12896.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 009",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_009/IMG_12896.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "ae070944570d943550c36fbd2cfcf55efc0b96ee2496a4f4b52c689d5e48cee7",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_010",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12897.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_010/IMG_12897.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 010",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_010/IMG_12897.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "003f7d7d457959b01ce388b5f912aad60695adf7bab09e545e8fd16a62e6a545",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_011",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12898.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_011/IMG_12898.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 011",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_011/IMG_12898.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1014,
+        "height": 1014,
+        "sha256": "4a71b32149fe3542e96adf0c43013a3a590862ef337b3252af7c9ca534630ca8",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_012",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12899.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_012/IMG_12899.jpg",
+      "category": "ACCESSORY",
+      "layer": "OtherAccessory",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 012",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "otheraccessory",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "OtherAccessory",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_012/IMG_12899.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "34ef5853324bda2c09e6c0773d9d820521e9642685193e1c4e355395a607d592",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_013",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12900.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_013/IMG_12900.jpg",
+      "category": "ACCESSORY",
+      "layer": "OtherAccessory",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 013",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "otheraccessory",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "OtherAccessory",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_013/IMG_12900.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "bff7b0aa572c1dedad28b3e175ef8312bb2020e9426eca208ffc9af9eb0b2c1e",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_014",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12901.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_014/IMG_12901.jpg",
+      "category": "ACCESSORY",
+      "layer": "OtherAccessory",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 014",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "otheraccessory",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "OtherAccessory",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_014/IMG_12901.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "7ae96214011ad2ece87ca1459644d1015595b2eaae69925693139805e96a490e",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_015",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12902.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_015/IMG_12902.jpg",
+      "category": "ACCESSORY",
+      "layer": "OtherAccessory",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 015",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "otheraccessory",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "OtherAccessory",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_015/IMG_12902.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "4653c2b3aa895c267201f20bf5dcb1190041f1a4613c872a68118eb664be9e53",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_016",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12903.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_016/IMG_12903.jpg",
+      "category": "ACCESSORY",
+      "layer": "OtherAccessory",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 016",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "otheraccessory",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "OtherAccessory",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_016/IMG_12903.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "71b1506d71c54b3a11ca07c20315f51a4450554a7e7e29e5d377314d700f64d5",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_017",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12904.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_017/IMG_12904.jpg",
+      "category": "ACCESSORY",
+      "layer": "OtherAccessory",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 017",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "otheraccessory",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "OtherAccessory",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_017/IMG_12904.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "6169eff7eb6ad756aebab064b741d6148906ed872cc36e2f9bb6a6ab9aa508e1",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_018",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12905.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_018/IMG_12905.jpg",
+      "category": "ACCESSORY",
+      "layer": "OtherAccessory",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 018",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "otheraccessory",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "OtherAccessory",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_018/IMG_12905.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "8e7e0d656025f88ec87f78a228471ca1e2ca7dd0e35e82475c8b7402a4453d97",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_019",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12906.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_019/IMG_12906.jpg",
+      "category": "ACCESSORY",
+      "layer": "OtherAccessory",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 019",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "otheraccessory",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "OtherAccessory",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_019/IMG_12906.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "6c1f0abd9ea7ae3b4217ce6f3e487e99398d7183f14d8b586bdc1c10dada509a",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_020",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12907.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_020/IMG_12907.jpg",
+      "category": "ACCESSORY",
+      "layer": "OtherAccessory",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 020",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "otheraccessory",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "OtherAccessory",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_020/IMG_12907.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "067153f504eae77209506e8d620415f709e340b04d1d80f85fcd442616ae7ba7",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_021",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12908.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_021/IMG_12908.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 021",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_021/IMG_12908.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "be6ba4ea53c56f905ab0d984a6cad08b75cec1da779b3f03c9ab986032a03535",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_022",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12909.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_022/IMG_12909.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 022",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_022/IMG_12909.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 2100,
+        "height": 2100,
+        "sha256": "d164d5a9b91aaf77874c24e733c8f8021c841d0d3efc6f33632dcd68e1487996",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_023",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12914.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_023/IMG_12914.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 023",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_023/IMG_12914.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "671b3d6b75754c85f3dc8b3d9cced8a86858e17463ff6a8b264c187a28b6ec76",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_024",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12915.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_024/IMG_12915.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 024",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_024/IMG_12915.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "87042e4d6e258bb559b7f747e46ec2e81cffbb884085d9600f96f75c78ffbed4",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_025",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12916.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_025/IMG_12916.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 025",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_025/IMG_12916.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "d43f492e0da5a44d5b416aa076a1a04a032ef7f68fbc656e1b6a78e0ec1b0b3b",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_026",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12917.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_026/IMG_12917.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 026",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_026/IMG_12917.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "8de6b7453d3650a96e3f947f6c99a4fc90b4fd6218653dab8ace332bc7e515ba",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_027",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12918.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_027/IMG_12918.jpg",
+      "category": "ACCESSORY",
+      "layer": "OtherAccessory",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 027",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "otheraccessory",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "OtherAccessory",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_027/IMG_12918.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "4db58fc078f2bf7b840832d1d5af893f26d79f5c2f510acd37e37bce3fce75d1",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_028",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12919.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_028/IMG_12919.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 028",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_028/IMG_12919.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "fa8288ec0791489716370795a9162f0084ef1a979bc36c46f69c0107da281d5c",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_029",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12920.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_029/IMG_12920.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 029",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_029/IMG_12920.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "605dd06327e0ebbf83449a890fad30ae27cf0a786dac43095175618734675e65",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_030",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12921.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_030/IMG_12921.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 030",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_030/IMG_12921.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "bcfddc6b77d685f27af9a97c23606c9ad22a96f0d15e7bc098216504c6118d0f",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_031",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12922.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_031/IMG_12922.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 031",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_031/IMG_12922.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "3c50179758d1bd933f839750b1689ca7a77bea3e428e5d0eded6d624e37f0a4f",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_032",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12923.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_032/IMG_12923.jpg",
+      "category": "ACCESSORY",
+      "layer": "OtherAccessory",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 032",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "otheraccessory",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "OtherAccessory",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_032/IMG_12923.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "c1312fa84ed7a432433905ba27af8c72eb2f14c581e9df3ead9b6c722d48925b",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_033",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12924.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_033/IMG_12924.jpg",
+      "category": "ACCESSORY",
+      "layer": "Waist",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 033",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "waist",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Waist",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_033/IMG_12924.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 3946,
+        "height": 3946,
+        "sha256": "3973da26c90f645439cce919dc5f1033715ffc28c5a473b5ef17bb63253076f9",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_034",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12925.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_034/IMG_12925.jpg",
+      "category": "ACCESSORY",
+      "layer": "OtherAccessory",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 034",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "otheraccessory",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "OtherAccessory",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_034/IMG_12925.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "b25842d935416bf1d047cabd2873d1d8c0de77f562f82268b21b4d7f743cbac6",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_035",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12927.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_035/IMG_12927.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 035",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_035/IMG_12927.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "18ca4374b6f7ce9cea66eded1f5eb5cc5733d6ce32e14f76fb910d698911b30c",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_036",
+      "sourceZip": "StageOS_Commercial_311_part01_of_04.zip",
+      "originalFileName": "IMG_12929.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_036/IMG_12929.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 036",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_036/IMG_12929.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1206,
+        "height": 1206,
+        "sha256": "c6639c8a6a232747c22d9e21d478e435c10e17aeff174a7ea97e4bad149dee19",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_037",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_12998.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_037/IMG_12998.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 037",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_037/IMG_12998.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "a053b462a44db21af17682b27ae499c3e11526aef3e3c3050a85277599b97333",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_038",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_12999.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_038/IMG_12999.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 038",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_038/IMG_12999.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "c4fed937514347d81b5467dcbf48e4adf9dbd4d9d94a8c1a65bd45bb94c650dd",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_039",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13000.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_039/IMG_13000.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 039",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_039/IMG_13000.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "3f0be95a8ee7a0500a7a70a3d51cfe9a86f0a30dde74ab93d341db1caf180d9c",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_040",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13001.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_040/IMG_13001.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 040",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_040/IMG_13001.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "f3caf423bd76af3a983a0d900bba0945ab874c67e6b105a49e7a8438e3f39f5c",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_041",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13002.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_041/IMG_13002.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 041",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_041/IMG_13002.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "9902602097daf483f89f171e7f7f0c0729041a89c8e315acb4b2f67dd0582cbf",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_042",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13003.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_042/IMG_13003.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 042",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_042/IMG_13003.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "641a2576a660e7ab9214dc8c7ecb6f7174186d3d267a8e176cfc3d7aa7917783",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_043",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13004.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_043/IMG_13004.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 043",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_043/IMG_13004.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "64e0169524d861cbdad77c7cbba3a50c417f309b3e43519294ac5aeff70f53af",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_044",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13005.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_044/IMG_13005.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 044",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_044/IMG_13005.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "f654ab1ee472888b8890f7e6530647fe3b94fb4c0a8031d408387d5a48ae2a3a",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_045",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13006.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_045/IMG_13006.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 045",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_045/IMG_13006.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "c196af01b19979c0bacda49fb6779598684423a7cd3ae9a7c6bdef42451d7b04",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_046",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13007.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_046/IMG_13007.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 046",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_046/IMG_13007.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "3b18923b8eade56b432cbc671a6acb93350f1b54729adc8d82cb5b047991001b",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_047",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13008.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_047/IMG_13008.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 047",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_047/IMG_13008.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "cee93c040d09ec039224cacae2263d7117acb87b7de4553e9dc722831850cd22",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_048",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13009.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_048/IMG_13009.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 048",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_048/IMG_13009.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "265673e28f4d7720cf4fae7719f0f977458eb36d370b003419c8f4213ff4c68e",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_049",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13010.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_049/IMG_13010.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 049",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_049/IMG_13010.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "5e71b84a0b22ebefcb1ddd25663d294adea78d1bd995436b810a10fc83ec16b6",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_050",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13011.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_050/IMG_13011.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 050",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_050/IMG_13011.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "9af2eef0d8c14b33eaaddae16fea4a607ca7bfa8971587f42a888eb053ca1d8a",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_051",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13137.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_051/IMG_13137.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 051",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_051/IMG_13137.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "a37e10ceb98b96bbb3aa4d7c8c49a77f00accd7b9389b3908d808fd672bbf191",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_052",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13138.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_052/IMG_13138.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 052",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_052/IMG_13138.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "1a4dcc6ba23ad75481ac0e5a85e8a15b2335a166acef72d7fcc6b786001cb8b5",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_053",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13139.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_053/IMG_13139.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 053",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_053/IMG_13139.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "040e6c87c0610ca11b6621d46d763c8b33f00625623785374b17b136e3d9d634",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_054",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13140.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_054/IMG_13140.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 054",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_054/IMG_13140.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1200,
+        "height": 1600,
+        "sha256": "c1d7439aaa0542e9153d0fba01c3bceafd9f614c3075d1dee311a1b82485f041",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_055",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13141.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_055/IMG_13141.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 055",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_055/IMG_13141.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1200,
+        "height": 1600,
+        "sha256": "bb647b7cdbeecdbb2c0c2a6cd5584d6957a15fe42c3f20d7f8047dfeac92f291",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_056",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13142.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_056/IMG_13142.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 056",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_056/IMG_13142.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "e0d23126afe456b0a44cbc7ca174ab09087cf0e646db2c0af8f8cb6051ec5ea6",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_057",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13143.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_057/IMG_13143.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 057",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_057/IMG_13143.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 900,
+        "height": 1200,
+        "sha256": "d5e982f3a3c12c264a3572749c1191c2ec0f8847864e3a2ab4d98fe80e11019c",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_058",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13144.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_058/IMG_13144.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 058",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_058/IMG_13144.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "9866faac442658e0d08f7861ee1d9963f14974ebb394acb0c2c6e9e0c086906e",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_059",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13145.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_059/IMG_13145.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 059",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_059/IMG_13145.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "ce6526d940248977c316e23e370d1bf0ebfb5fa803fd0c05832a105d317390f9",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_060",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13146.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_060/IMG_13146.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 060",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_060/IMG_13146.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "69a7adbe5eef30945b6c51b6880214f4ee5c5fa842fb44f5a171b80944f26943",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_061",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13147.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_061/IMG_13147.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 061",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_061/IMG_13147.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "3306ae225f51a8e08ced4e5c53dd8292452dc2fad1bac06bebc15942b5fdb1bd",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_062",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13148.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_062/IMG_13148.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 062",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_062/IMG_13148.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "239e2b45c790c00b1ca4c29077d86b278818fef0d1a7ead2ee895a1f007b19f7",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_063",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13149.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_063/IMG_13149.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 063",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_063/IMG_13149.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "6912bb48db5f4bccd782d61fa21e89055e28af42cb689a153082a112d11fb7ee",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_064",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13150.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_064/IMG_13150.jpg",
+      "category": "ACCESSORY",
+      "layer": "Waist",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 064",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "waist",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Waist",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_064/IMG_13150.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1125,
+        "height": 1500,
+        "sha256": "87cef219b006f94fd2cb4b4a22d6cdd94292cabe07b9557b7607c0b5a11c7826",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_065",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13151.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_065/IMG_13151.jpg",
+      "category": "ACCESSORY",
+      "layer": "Waist",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 065",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "waist",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Waist",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_065/IMG_13151.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "32c0ac1a42226b235dfcdf1469e6376d4096aef0b75e724f611589e37af49c7e",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_066",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13152.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_066/IMG_13152.jpg",
+      "category": "ACCESSORY",
+      "layer": "Waist",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 066",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "waist",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Waist",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_066/IMG_13152.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "366e972c652f929ab1e5aba8ec8fbae6008a1d78c12aa6730f591c276b029053",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_067",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13153.png",
+      "storedPath": "extracted/accessories/ACCESSORY_067/IMG_13153.png",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 067",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_067/IMG_13153.png"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1024,
+        "height": 1024,
+        "sha256": "6724f59bd15eaa8871014c518e1ea17e160df916e8ce79d94e6410769daed384",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_068",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13154.png",
+      "storedPath": "extracted/accessories/ACCESSORY_068/IMG_13154.png",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 068",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_068/IMG_13154.png"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1024,
+        "height": 683,
+        "sha256": "ca3ba5a2b896f046a8aec536ef12aff8ad1cc6678bbb88d3dc6a08c3ddbece46",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_069",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13155.png",
+      "storedPath": "extracted/accessories/ACCESSORY_069/IMG_13155.png",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 069",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_069/IMG_13155.png"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1022,
+        "height": 1024,
+        "sha256": "8f5e5c69d007282b6bf0a9e36e0f2b83420e5e538556308eeba3cf8ebfdbd93b",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_070",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13156.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_070/IMG_13156.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 070",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_070/IMG_13156.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 600,
+        "height": 800,
+        "sha256": "47761a8a21e5e66fa140291df76a819da49581b87d3ae125bf24e83749583048",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_071",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13157.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_071/IMG_13157.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 071",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_071/IMG_13157.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "2bec2ce1f0584170f06de29a8bf84ffbf10d82dd348baff4a9076d57fcf149d3",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_072",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13158.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_072/IMG_13158.jpg",
+      "category": "ACCESSORY",
+      "layer": "OtherAccessory",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 072",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "otheraccessory",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "OtherAccessory",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_072/IMG_13158.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1024,
+        "height": 1024,
+        "sha256": "5058b7e6f796d6f045c07f7849bc431dab74b773c18ca5489cdcf6fa7ff8988c",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_073",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13166.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_073/IMG_13166.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 073",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_073/IMG_13166.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "b1fbeee5a1e8ded3e6ed3de0109d2351b0b78637e59af3a4b094ab69b4affbc7",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_074",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13167.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_074/IMG_13167.jpg",
+      "category": "ACCESSORY",
+      "layer": "Waist",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 074",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "waist",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Waist",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_074/IMG_13167.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "1aa3ff99abe256b2dec1274b5cbafe470450f79fedc84c34b238fc5bf36c402c",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_075",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13169.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_075/IMG_13169.jpg",
+      "category": "ACCESSORY",
+      "layer": "Waist",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 075",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "waist",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Waist",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_075/IMG_13169.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "56ac9e6f45b16761a37475553f84dc2878b7d140fc0aae192651d0a5b6824f07",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_076",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13170.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_076/IMG_13170.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 076",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_076/IMG_13170.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "17583eb77841d96870e2decb5bef1439dd1fc754ab79a6255ad735bd547b346d",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_077",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13172.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_077/IMG_13172.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 077",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_077/IMG_13172.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "7ae479ce208d57511b50a165381264ebea704dc51d0357cd3774525bea1aab32",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_078",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13174.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_078/IMG_13174.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 078",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_078/IMG_13174.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "92d7b9b5b47bdf77b0cd9be2dbdf9d1b27f2fe4e129d8260fda9655249fd76f9",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_079",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13175.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_079/IMG_13175.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 079",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_079/IMG_13175.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "d310e4b9498b711a75a0d7540e4d09a8e6e51efc5be1a7ef00a6056eee9d0758",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_080",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13176.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_080/IMG_13176.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 080",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_080/IMG_13176.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "0af91511a23bd37efb0d42c286e4bd0743ea8e0a33b860d3c7fc338ecae1a2b8",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_081",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13181.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_081/IMG_13181.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 081",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_081/IMG_13181.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "4e74e5fdcf2650b1c062e2869c5f208f91b89caa1b3a8bd79ef8b41ccb265b9b",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_082",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13182.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_082/IMG_13182.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 082",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_082/IMG_13182.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "47d1179d4a761a076545e7b47d26cd2d47f1214b11afe661d5635e25f72f12ee",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_083",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13183.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_083/IMG_13183.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 083",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_083/IMG_13183.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "e22ddad94ff59a26c86e0971a64e64f214f7eede72091b31a0bb421ccb3ff42b",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_084",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13184.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_084/IMG_13184.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 084",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_084/IMG_13184.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "01b3edc15aeaaaa24c1cf65f843cfb2cb991ff4c6fa32d64e4423978588eff71",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_085",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13185.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_085/IMG_13185.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 085",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_085/IMG_13185.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "4fa14b338f0720b5408f3cde9255b4ac01a275196208d417718b0f0323f54dd0",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_086",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13186.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_086/IMG_13186.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 086",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_086/IMG_13186.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "712f89c0446780eeed28fdcd89f87068d90713278414811ebfa1a7225f87a84a",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_087",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13187.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_087/IMG_13187.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 087",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_087/IMG_13187.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "8b190824506320aa8797c3dc383ddc4bbbdb69e6a4d2db556cc94dfb7046bbcd",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_088",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13188.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_088/IMG_13188.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 088",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_088/IMG_13188.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "db980349e470bc57b04caeec47b9cdbbfd2d0647677475c5ef11e348cbd586a4",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_089",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13190.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_089/IMG_13190.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 089",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_089/IMG_13190.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "febe90e15e6df80bc062f7690116046a7671dbd756e5b90c80adc5d496d132b9",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_090",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13193.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_090/IMG_13193.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 090",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_090/IMG_13193.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "4cf0020ae34221d87aa3cf1bdd51dc5da55489369d74d4714e4c9249f5577401",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_091",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13194.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_091/IMG_13194.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 091",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_091/IMG_13194.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "f0bfd44eaf2d31272509d475ec2360fab92b1e7994730f7b0e164c84ee1b9d9a",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_092",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13195.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_092/IMG_13195.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 092",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_092/IMG_13195.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1200,
+        "height": 1200,
+        "sha256": "8a906a901d1bee47fa6361d9763f7a0899800fcf1e716256b8d5311453a6c84b",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_093",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13196.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_093/IMG_13196.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 093",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_093/IMG_13196.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1200,
+        "height": 1200,
+        "sha256": "f2da6c860f4002dc58974fdc97cb8f0611516b7f83fe8b9ff2bff1fc657f573d",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_094",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13197.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_094/IMG_13197.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 094",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_094/IMG_13197.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1200,
+        "height": 1200,
+        "sha256": "7c29df826e7624fc4059fe076bf13c97f79759af456d838065529ac5f3272678",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_095",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13198.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_095/IMG_13198.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 095",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_095/IMG_13198.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1200,
+        "height": 1200,
+        "sha256": "33eb7e5553f2eef7c0a0948819a6be228378588d436a88fb68d3559b9f6d8c16",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_096",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13202.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_096/IMG_13202.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 096",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_096/IMG_13202.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 2160,
+        "height": 2160,
+        "sha256": "a73b1264d4457169229b4fc8b3cf0e78102f4702029bbb7cbd0d1d07dbf87d96",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_097",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13203.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_097/IMG_13203.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 097",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_097/IMG_13203.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "70b27fe02d39d62331fa55222d8178603414c0d667e4ec4ba05a0513f8c9dd8b",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_098",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13204.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_098/IMG_13204.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 098",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_098/IMG_13204.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 750,
+        "sha256": "79ae980fcbeaa5c2fb0194d532c91556406d6b130fd7fa2151ec3648ee9b360b",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_099",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13205.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_099/IMG_13205.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 099",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_099/IMG_13205.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 600,
+        "height": 800,
+        "sha256": "3d7a1ed3b26e638090be7143824ca431b1debab9551f940d1c49b00f0905bfac",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_100",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13206.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_100/IMG_13206.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 100",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_100/IMG_13206.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 5000,
+        "height": 5000,
+        "sha256": "798e673ad8bfea3b4b6022ff4cfe13fd77809dcf0112607c7e38bf9b88f2bae8",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_101",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13207.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_101/IMG_13207.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 101",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_101/IMG_13207.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 2774,
+        "height": 4096,
+        "sha256": "390ecace5bf88b68a81b7c40ff77b54761ecb8ee549a89ce12d182e7e9019efd",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_102",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13208.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_102/IMG_13208.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 102",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_102/IMG_13208.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 5000,
+        "height": 5000,
+        "sha256": "d95f7063064f48386ca6f6e73f5f70d0c6b490600023b9f81786a7e76c96a41c",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_103",
+      "sourceZip": "StageOS_Commercial_311_part02_of_04.zip",
+      "originalFileName": "IMG_13209.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_103/IMG_13209.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 103",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_103/IMG_13209.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 5000,
+        "height": 5000,
+        "sha256": "094b84a33c8be5413432a6a0eb30ca5dfdf6b93af25501c00bd5e2404379d6f8",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_104",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13210.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_104/IMG_13210.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 104",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_104/IMG_13210.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 5000,
+        "height": 5000,
+        "sha256": "196a439597c0c92777103375cd0d6200a53758b98793e338e9f93455f48f29ef",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_105",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13211.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_105/IMG_13211.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 105",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_105/IMG_13211.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "9e193b8fc19bb1af3081325d2df8b3a93913cdefb37d52ab6c33d8de1d078072",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_106",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13212.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_106/IMG_13212.jpg",
+      "category": "ACCESSORY",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 106",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "shoulder",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Shoulder",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_106/IMG_13212.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "097c9d7caa595cf4c94f5e1d673107cdd8b8240b3ea8ef3309b916326179ad33",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_107",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13213.png",
+      "storedPath": "extracted/accessories/ACCESSORY_107/IMG_13213.png",
+      "category": "ACCESSORY",
+      "layer": "Waist",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 107",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "waist",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Waist",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_107/IMG_13213.png"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "6bc09522d91b032495d817e87d7b81e53a0646f993a365b01c5343bed8e1d064",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_108",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13214.png",
+      "storedPath": "extracted/accessories/ACCESSORY_108/IMG_13214.png",
+      "category": "ACCESSORY",
+      "layer": "Waist",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 108",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "waist",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Waist",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_108/IMG_13214.png"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1700,
+        "height": 1700,
+        "sha256": "5768015e5ba83fbda4a9673846e80948c7f9e3f363b7ae70879d7cc7d283c964",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_109",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13215.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_109/IMG_13215.jpg",
+      "category": "ACCESSORY",
+      "layer": "Waist",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 109",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "waist",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Waist",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_109/IMG_13215.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "a8ee2c3cf947801ed5ae9841f052292ad4e5011bc14c238e1cb987bf0e6e4862",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_110",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13216.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_110/IMG_13216.jpg",
+      "category": "ACCESSORY",
+      "layer": "Waist",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 110",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "waist",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Waist",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_110/IMG_13216.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "65550efbfe1bd392f5badfc357f6762bd1b528cfb5bfc70f4f6ec03f7aa38961",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_111",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13217.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_111/IMG_13217.jpg",
+      "category": "ACCESSORY",
+      "layer": "Waist",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 111",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "waist",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Waist",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_111/IMG_13217.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "bfcb31e614ef0401efb175564b988fa1a944a300b619dafc1b3334154bd1b6d4",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_112",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13218.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_112/IMG_13218.jpg",
+      "category": "ACCESSORY",
+      "layer": "Waist",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 112",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "waist",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Waist",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_112/IMG_13218.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "334e3d88232baa4435c15d08bf3557e4e6016873c2b6c28fc285f01539e963dc",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_113",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13219.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_113/IMG_13219.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 113",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_113/IMG_13219.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 3024,
+        "height": 4032,
+        "sha256": "b101fbb92b6467d8b70eafeb6f102fc49116d387bb751823e10ff0cdb46d6701",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_114",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13220.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_114/IMG_13220.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 114",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_114/IMG_13220.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 3024,
+        "height": 4032,
+        "sha256": "cbb870dc87a00c58bdf234343e82c547d789f0c18dc0701120600cd0c2c9ce36",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_115",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13221.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_115/IMG_13221.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 115",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_115/IMG_13221.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 3024,
+        "height": 4032,
+        "sha256": "2fd9cb779ac5105ff20baf61d1931ceee3ba2c9453ea3c382520ac6926bda016",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_116",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13222.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_116/IMG_13222.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 116",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_116/IMG_13222.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 3024,
+        "height": 4032,
+        "sha256": "21e862e7454fdc0bf4595d3806120e620a060b77d39fc89dcae5ef7ff44ecfaa",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_117",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13223.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_117/IMG_13223.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 117",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_117/IMG_13223.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 2160,
+        "height": 2880,
+        "sha256": "a9714de59378a8f6321a4e2d94fe29d80965b73556849f0438d3c4bfddc0b0cf",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_118",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13224.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_118/IMG_13224.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 118",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_118/IMG_13224.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1773,
+        "height": 1773,
+        "sha256": "6967db3afd5bb80059623a06fdb0a892aa234c179fb7543e2927727d04f5fc4f",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_119",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13225.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_119/IMG_13225.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 119",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_119/IMG_13225.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1777,
+        "height": 1777,
+        "sha256": "1c181b666d1f861f546b060deb10401d5affec3f23ee7fde215bab6578554ae6",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_120",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13226.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_120/IMG_13226.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 120",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_120/IMG_13226.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1773,
+        "height": 1773,
+        "sha256": "4b5f4c95aa5689b24f238b4557d35357ac586c5c06f512096cb892f0bf711bc8",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_121",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13227.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_121/IMG_13227.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 121",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_121/IMG_13227.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1773,
+        "height": 1773,
+        "sha256": "d9f1262faa43e81e75017b596aacd57ef1f6cd892417a189def3ff85696714c0",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_122",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13228.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_122/IMG_13228.jpg",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 122",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_122/IMG_13228.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1773,
+        "height": 1773,
+        "sha256": "6967db3afd5bb80059623a06fdb0a892aa234c179fb7543e2927727d04f5fc4f",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_123",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13229.png",
+      "storedPath": "extracted/accessories/ACCESSORY_123/IMG_13229.png",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 123",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_123/IMG_13229.png"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "8265eb33341c995cf552053d3900d968925dc2108c4889e96720514b7a7238fd",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_124",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13230.png",
+      "storedPath": "extracted/accessories/ACCESSORY_124/IMG_13230.png",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 124",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_124/IMG_13230.png"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "d54d0261ec3186775a7a2fd599e72cc4a0761f9b8bc8730a15c9da44272c3d3f",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_125",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13231.png",
+      "storedPath": "extracted/accessories/ACCESSORY_125/IMG_13231.png",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 125",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_125/IMG_13231.png"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "d80391da7ded5d69589144b1e95a9d915705a6d119d4978d7acbcaeba7877ea8",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_126",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13232.png",
+      "storedPath": "extracted/accessories/ACCESSORY_126/IMG_13232.png",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 126",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_126/IMG_13232.png"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "3e34160385073e496a865b861f20702f60e186ba16a485c444cb7aa168fd7460",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_127",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13233.png",
+      "storedPath": "extracted/accessories/ACCESSORY_127/IMG_13233.png",
+      "category": "ACCESSORY",
+      "layer": "Head",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 127",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "head",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Head",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_127/IMG_13233.png"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "77fa9f8dd91bdf78ee542f0b7cce982dd32f37c58dca1a233a9eaa2271964ddb",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_128",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13234.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_128/IMG_13234.jpg",
+      "category": "ACCESSORY",
+      "layer": "Waist",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 128",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "waist",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Waist",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_128/IMG_13234.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 3072,
+        "height": 4096,
+        "sha256": "56d1f4a8d4b148baeeb96c61805831e40cdaed3cdda568c8fd2e89304dbc7ba8",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_129",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13235.png",
+      "storedPath": "extracted/accessories/ACCESSORY_129/IMG_13235.png",
+      "category": "ACCESSORY",
+      "layer": "Waist",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 129",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "waist",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Waist",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_129/IMG_13235.png"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 2284,
+        "height": 1712,
+        "sha256": "d8c4835a0b32fdb7d7e2ae160ef4eca248acbb1af4109e450d5c24bd662b17fd",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_130",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13236.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_130/IMG_13236.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 130",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_130/IMG_13236.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1200,
+        "height": 1200,
+        "sha256": "ff75e22c47b7686f1b5fd4b557a6c9a8d6702c594fc64f622f9f70266ff10e14",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_131",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13237.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_131/IMG_13237.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 131",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_131/IMG_13237.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1200,
+        "height": 1200,
+        "sha256": "aec3e8821e65b16853db176e2877d24c116beef12b67acc1191aee75b0738775",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_132",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13238.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_132/IMG_13238.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 132",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_132/IMG_13238.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1200,
+        "height": 1200,
+        "sha256": "cebe0a0bd052182da9666c08e02e8ee045755078dd259d3c868eae15712d417d",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_133",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13239.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_133/IMG_13239.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 133",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_133/IMG_13239.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1200,
+        "height": 1200,
+        "sha256": "4f86082c0e9395c0c133b4b4ede450c453f68026ebd31116ce6c9874c56e132f",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_134",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13240.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_134/IMG_13240.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 134",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_134/IMG_13240.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1200,
+        "height": 1200,
+        "sha256": "2339dbb3ee11b8d73bad39f66bc0f72f4d411ab6b72c3b7a3e81ddde7f5a06ab",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_135",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13241.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_135/IMG_13241.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 135",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_135/IMG_13241.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "417f55d0f33bf64108657d5452e328c4f850e70fec6157320f52e44bc991f7b1",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_136",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13242.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_136/IMG_13242.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 136",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_136/IMG_13242.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1000,
+        "height": 1000,
+        "sha256": "0545c62f7592785a4e17e3fd8e75014fa30947a142f4c3aa58db07b64c5da496",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_137",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13243.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_137/IMG_13243.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 137",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_137/IMG_13243.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "8075625f2b7b487b5a4127b65eb2728178e19e1ef6a69e529b4d29cbe28593ed",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_138",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13244.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_138/IMG_13244.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 138",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_138/IMG_13244.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "326a18afa258e7b96fcad80bf8b6390c46692cab722039d55c4c25b0650c3341",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_139",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13245.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_139/IMG_13245.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 139",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_139/IMG_13245.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 750,
+        "height": 1000,
+        "sha256": "eb0bbea1c03f663b0f0727cb82017dbd348cc0b9c8611210f6b47ee28709aecc",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_140",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13246.heic",
+      "storedPath": "extracted/accessories/ACCESSORY_140/IMG_13246.heic",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 140",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_140/IMG_13246.heic"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 3024,
+        "height": 4032,
+        "sha256": "735fb8aa1a057a678e2bfceb18518ed77ef7355fc97e72d40bc1887ea61222b8",
+        "format": "heic"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_141",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13247.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_141/IMG_13247.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 141",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_141/IMG_13247.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 2064,
+        "height": 2064,
+        "sha256": "eb0845332c8c1a7af21ada1bc1f9090a333f507f781ababc313a92d056f52eb6",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_142",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13248.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_142/IMG_13248.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 142",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_142/IMG_13248.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 2044,
+        "height": 2044,
+        "sha256": "ba05f55eebcd70a9e7a4de4dd6072078b525caac89b63ffdf2dfc05c08b8cd7e",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_143",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13249.png",
+      "storedPath": "extracted/accessories/ACCESSORY_143/IMG_13249.png",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 143",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_143/IMG_13249.png"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 2056,
+        "height": 2056,
+        "sha256": "72263940211d38a6cb8fd657fa7adb0b1a3872e9931c64effe485ee849881cb3",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_144",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13250.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_144/IMG_13250.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 144",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_144/IMG_13250.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 800,
+        "height": 800,
+        "sha256": "e201b3104f3b80c569e17b153970980f62fd6163a92cb0458ea4e338edac6cdf",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_145",
+      "sourceZip": "StageOS_Commercial_311_part03_of_04.zip",
+      "originalFileName": "IMG_13251.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_145/IMG_13251.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 145",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_145/IMG_13251.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1600,
+        "height": 1600,
+        "sha256": "3f99be6d1baa6a721d7d8bd6e152943cd3da74ad434ffcfa5e7e8872b5befd0c",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_146",
+      "sourceZip": "StageOS_Commercial_311_part04_of_04.zip",
+      "originalFileName": "IMG_13252.jpg",
+      "storedPath": "extracted/accessories/ACCESSORY_146/IMG_13252.jpg",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 146",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_146/IMG_13252.jpg"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 2844,
+        "height": 2844,
+        "sha256": "9686b8dbdadcfb8c635dab640c4519604ed784d04f2dd0fda8140a32f8d79aea",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "ACCESSORY_147",
+      "sourceZip": "StageOS_Commercial_311_part04_of_04.zip",
+      "originalFileName": "IMG_13253.heic",
+      "storedPath": "extracted/accessories/ACCESSORY_147/IMG_13253.heic",
+      "category": "ACCESSORY",
+      "layer": "Hand",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Accessory Reference 147",
+      "description": "非服装主体的舞台配饰数字视觉参考；未记录商品链接或商品身份。",
+      "tags": [
+        "accessory",
+        "hand",
+        "stage-ornament"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "StagePerformance",
+        "ChineseDance",
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "舞台配饰",
+          "服饰装饰",
+          "Hand",
+          "accessory"
+        ]
+      },
+      "referenceImages": [
+        "extracted/accessories/ACCESSORY_147/IMG_13253.heic"
+      ],
+      "notes": "classification_basis=contact-sheet-review; 商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1448,
+        "height": 1920,
+        "sha256": "9dfc51394c939752d8c1a6fca6272142ab840390694253933f911e89db005f5f",
+        "format": "heic"
+      }
+    }
+  ]
+}

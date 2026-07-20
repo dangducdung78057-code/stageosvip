@@ -1,0 +1,2527 @@
+{
+  "version": "1.0",
+  "category": "UNCLASSIFIED",
+  "count": 60,
+  "assets": [
+    {
+      "assetId": "UNCLASSIFIED_001",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_001/accent-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 001",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_001/accent-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "219b735035f994c5047ae0d83fd780f01d1149ca8f721072b0cb6db3bae2629d",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_002",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_002/accent-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 002",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_002/accent-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "b39e2e8738f2c0f69ed2a4c4f4003249a5abfb67abe1d83ccf613c713ffc5978",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_003",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_003/accent-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 003",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_003/accent-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "1408d8627bed981748004bfb15b2b5f34ac3d70b2f4c8c143ddb7d55c7a7ad47",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_004",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_004/lower-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 004",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_004/lower-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "7ad1a32bef88d7b77dd5c11ca7829011d7220250a454856d8f0883191c6a00a5",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_005",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_005/lower-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 005",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_005/lower-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "bc875311d26f920ab84c1dc3cc7375061b96ca959da2c2e7df8944b06b7b56f9",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_006",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_006/lower-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 006",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_006/lower-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "6090a9207d5327fe5efc11df71a7ae8b65dc27eeefc5ae2e8a559af94dc7074d",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_007",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_007/accent-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 007",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_007/accent-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "ae3f161ed7dc204b6a57f2e5691f4c19f0d75f74174e6fcb454af7b611551696",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_008",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_008/accent-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 008",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_008/accent-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "31931eed9650b3e8d9eee3c75bc0b11f2929cbbeaf5b8a4070749b04bd302d02",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_009",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_009/accent-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 009",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_009/accent-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "4dee8a7cac8a3af0fbe72631818e98a77d44c3539945328de82f7ed4c81c6acf",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_010",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_010/lower-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 010",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_010/lower-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "722d241823c8e8578a222490a40cd3305741bf67d1dbab2df61671183e3b67f6",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_011",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_011/lower-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 011",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_011/lower-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "5bed2ac7be21f7c59afcb49cbb5278758522ee04a43621834cc805d728b6f50e",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_012",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_012/lower-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 012",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_012/lower-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "83f5eedf5455afcf7d462383aebda8ee43c333a6526b119e30793624ec5c6cb2",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_013",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_013/accent-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 013",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_013/accent-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "e1d7ae7d665282bb5c5b2e3328a42eb9c07f1c4d22fbd22f73eed7015e550b0d",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_014",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_014/accent-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 014",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_014/accent-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "c60149479f50ed749ab3322e08012d93b717e6a133a24027ab1c27731c4630a8",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_015",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_015/accent-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 015",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_015/accent-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "b10b78bc009361c4aa9c45668044a4a9c1b7cac5e70360077001977b9f091635",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_016",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_016/lower-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 016",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_016/lower-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "bbccdb294d898e5adcb1f3cc98f35a4d8dcfc4248b75fd311e402d13ead20d2b",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_017",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_017/lower-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 017",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_017/lower-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "5cb4da385761032abbdd6099a3a22da7b815cfdf71351fcb7092b6ac3f35bcb0",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_018",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_018/lower-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 018",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_018/lower-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "b383c68cdeb80146be2f3ba5bf3266d758549d4114c76b88300d3593e7c11360",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_019",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_019/accent-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 019",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_019/accent-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "cf2b54e5e5dab80f9235636b6040fe1677b28d10d92b76158ec5eccd15101ab5",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_020",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_020/accent-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 020",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_020/accent-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "2446e0ede40a2d4e2c5b069694298db0031429d5731083a9452691ca56840998",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_021",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_021/accent-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 021",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_021/accent-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "3b4466a9480eec9aa66fd71e4f358da5d83c95f7ce6b58f7b4b05a452c57651f",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_022",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_022/lower-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 022",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_022/lower-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "e0ebd32a4b0e7d3881434590496d85084da8801cf70a78d15b25b2cdacb95dff",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_023",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_023/lower-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 023",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_023/lower-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "808c187047703175eae1808a529bbc4258ac123686500421786efdac4f4246d6",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_024",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_024/lower-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 024",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_024/lower-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "279c98ab9e5835463ccfb8b211c6da4752f663085ca8b16918151d2b1de2a92f",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_025",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_025/accent-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 025",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_025/accent-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "219b735035f994c5047ae0d83fd780f01d1149ca8f721072b0cb6db3bae2629d",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_026",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_026/accent-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 026",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_026/accent-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "b39e2e8738f2c0f69ed2a4c4f4003249a5abfb67abe1d83ccf613c713ffc5978",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_027",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_027/accent-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 027",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_027/accent-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "1408d8627bed981748004bfb15b2b5f34ac3d70b2f4c8c143ddb7d55c7a7ad47",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_028",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_028/lower-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 028",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_028/lower-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "7ad1a32bef88d7b77dd5c11ca7829011d7220250a454856d8f0883191c6a00a5",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_029",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_029/lower-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 029",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_029/lower-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "bc875311d26f920ab84c1dc3cc7375061b96ca959da2c2e7df8944b06b7b56f9",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_030",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_030/lower-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 030",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_030/lower-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "6090a9207d5327fe5efc11df71a7ae8b65dc27eeefc5ae2e8a559af94dc7074d",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_031",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_031/accent-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 031",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_031/accent-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "ae3f161ed7dc204b6a57f2e5691f4c19f0d75f74174e6fcb454af7b611551696",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_032",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_032/accent-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 032",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_032/accent-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "31931eed9650b3e8d9eee3c75bc0b11f2929cbbeaf5b8a4070749b04bd302d02",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_033",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_033/accent-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 033",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_033/accent-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "4dee8a7cac8a3af0fbe72631818e98a77d44c3539945328de82f7ed4c81c6acf",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_034",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_034/lower-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 034",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_034/lower-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "722d241823c8e8578a222490a40cd3305741bf67d1dbab2df61671183e3b67f6",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_035",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_035/lower-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 035",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_035/lower-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "5bed2ac7be21f7c59afcb49cbb5278758522ee04a43621834cc805d728b6f50e",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_036",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_036/lower-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 036",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_036/lower-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "83f5eedf5455afcf7d462383aebda8ee43c333a6526b119e30793624ec5c6cb2",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_037",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_037/accent-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 037",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_037/accent-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "e1d7ae7d665282bb5c5b2e3328a42eb9c07f1c4d22fbd22f73eed7015e550b0d",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_038",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_038/accent-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 038",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_038/accent-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "c60149479f50ed749ab3322e08012d93b717e6a133a24027ab1c27731c4630a8",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_039",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_039/accent-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 039",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_039/accent-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "b10b78bc009361c4aa9c45668044a4a9c1b7cac5e70360077001977b9f091635",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_040",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_040/lower-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 040",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_040/lower-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "bbccdb294d898e5adcb1f3cc98f35a4d8dcfc4248b75fd311e402d13ead20d2b",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_041",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_041/lower-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 041",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_041/lower-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "5cb4da385761032abbdd6099a3a22da7b815cfdf71351fcb7092b6ac3f35bcb0",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_042",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_042/lower-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 042",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_042/lower-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "b383c68cdeb80146be2f3ba5bf3266d758549d4114c76b88300d3593e7c11360",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_043",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_043/accent-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 043",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_043/accent-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "cf2b54e5e5dab80f9235636b6040fe1677b28d10d92b76158ec5eccd15101ab5",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_044",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_044/accent-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 044",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_044/accent-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "2446e0ede40a2d4e2c5b069694298db0031429d5731083a9452691ca56840998",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_045",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "accent-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_045/accent-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 045",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_045/accent-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "3b4466a9480eec9aa66fd71e4f358da5d83c95f7ce6b58f7b4b05a452c57651f",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_046",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-left.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_046/lower-mask-front-left.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 046",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_046/lower-mask-front-left.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "e0ebd32a4b0e7d3881434590496d85084da8801cf70a78d15b25b2cdacb95dff",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_047",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front-right.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_047/lower-mask-front-right.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 047",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_047/lower-mask-front-right.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "808c187047703175eae1808a529bbc4258ac123686500421786efdac4f4246d6",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_048",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "lower-mask-front.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_048/lower-mask-front.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 048",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_048/lower-mask-front.png"
+      ],
+      "notes": "classification_basis=technical-mask; 商品身份、链接、价格、店铺与 SKU 均未记录。 category=UNCLASSIFIED，禁止在复核前推断具体资产类型。",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "279c98ab9e5835463ccfb8b211c6da4752f663085ca8b16918151d2b1de2a92f",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_049",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "forty-person-stage-matrix.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_049/forty-person-stage-matrix.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 049",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_049/forty-person-stage-matrix.png"
+      ],
+      "notes": "classification_basis=technical-non-costume; category=UNCLASSIFIED，禁止在复核前推断具体资产类型；商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1024,
+        "height": 1024,
+        "sha256": "eaa8d07639a5c1d71e75894b20134df08ccce95e317be8797aa064847d44e31a",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_050",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "four-role-lighting-matrix.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_050/four-role-lighting-matrix.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 050",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_050/four-role-lighting-matrix.png"
+      ],
+      "notes": "classification_basis=technical-non-costume; category=UNCLASSIFIED，禁止在复核前推断具体资产类型；商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1024,
+        "height": 1024,
+        "sha256": "6655aa29f4d302e412d2ba38af9e7db5866d9b8fa3a9dd836bf02814cc47ea27",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_051",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "twelve-person-formation-matrix.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_051/twelve-person-formation-matrix.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 051",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_051/twelve-person-formation-matrix.png"
+      ],
+      "notes": "classification_basis=technical-non-costume; category=UNCLASSIFIED，禁止在复核前推断具体资产类型；商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1024,
+        "height": 1024,
+        "sha256": "db82d9e1227d7b4c9a10261e79289f433e01c4f5daf88a4d3f85789215c0bb28",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_052",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "apple-icon.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_052/apple-icon.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 052",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_052/apple-icon.png"
+      ],
+      "notes": "classification_basis=technical-non-costume; category=UNCLASSIFIED，禁止在复核前推断具体资产类型；商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 180,
+        "height": 180,
+        "sha256": "da678942d4656a903f61000551cc51c09464d7a223faaae304e8210e1ca19257",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_053",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "icon-dark-32x32.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_053/icon-dark-32x32.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 053",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_053/icon-dark-32x32.png"
+      ],
+      "notes": "classification_basis=technical-non-costume; category=UNCLASSIFIED，禁止在复核前推断具体资产类型；商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 32,
+        "height": 32,
+        "sha256": "8a1570b2955c3748b6844356a7487d88c60f9f1e699e870a3452a3decd1ba03c",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_054",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "icon-light-32x32.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_054/icon-light-32x32.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 054",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_054/icon-light-32x32.png"
+      ],
+      "notes": "classification_basis=technical-non-costume; category=UNCLASSIFIED，禁止在复核前推断具体资产类型；商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 32,
+        "height": 32,
+        "sha256": "83145e5bb033ace23cd8e7fbb63e7c39733aaf58f8a7280d7800995cced6f7c2",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_055",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "forty-person-stage-matrix.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_055/forty-person-stage-matrix.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 055",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_055/forty-person-stage-matrix.png"
+      ],
+      "notes": "classification_basis=technical-non-costume; category=UNCLASSIFIED，禁止在复核前推断具体资产类型；商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1024,
+        "height": 1024,
+        "sha256": "eaa8d07639a5c1d71e75894b20134df08ccce95e317be8797aa064847d44e31a",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_056",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "four-role-lighting-matrix.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_056/four-role-lighting-matrix.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 056",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_056/four-role-lighting-matrix.png"
+      ],
+      "notes": "classification_basis=technical-non-costume; category=UNCLASSIFIED，禁止在复核前推断具体资产类型；商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1024,
+        "height": 1024,
+        "sha256": "6655aa29f4d302e412d2ba38af9e7db5866d9b8fa3a9dd836bf02814cc47ea27",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_057",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "twelve-person-formation-matrix.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_057/twelve-person-formation-matrix.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 057",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_057/twelve-person-formation-matrix.png"
+      ],
+      "notes": "classification_basis=technical-non-costume; category=UNCLASSIFIED，禁止在复核前推断具体资产类型；商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1024,
+        "height": 1024,
+        "sha256": "db82d9e1227d7b4c9a10261e79289f433e01c4f5daf88a4d3f85789215c0bb28",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_058",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "placeholder-logo.png",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_058/placeholder-logo.png",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 058",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_058/placeholder-logo.png"
+      ],
+      "notes": "classification_basis=technical-non-costume; category=UNCLASSIFIED，禁止在复核前推断具体资产类型；商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 256,
+        "height": 144,
+        "sha256": "d7c39d978af643ba9525de6fb8171e0f834882db4110c82ecad0df3f4f69551a",
+        "format": "png"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_059",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "placeholder-user.jpg",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_059/placeholder-user.jpg",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 059",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_059/placeholder-user.jpg"
+      ],
+      "notes": "classification_basis=technical-non-costume; category=UNCLASSIFIED，禁止在复核前推断具体资产类型；商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 200,
+        "height": 200,
+        "sha256": "22be067d748175598a5e00123902f5c8332dd7f101de03dfb92ec08d85bb5e53",
+        "format": "jpg"
+      }
+    },
+    {
+      "assetId": "UNCLASSIFIED_060",
+      "sourceZip": "StageOS_StageOutfit_254_part01_of_01.zip",
+      "originalFileName": "placeholder.jpg",
+      "storedPath": "extracted/unclassified/UNCLASSIFIED_060/placeholder.jpg",
+      "category": "UNCLASSIFIED",
+      "layer": "UNKNOWN",
+      "status": "DIGITAL_REFERENCE",
+      "sourceType": "IMAGE_REFERENCE",
+      "title": "Unclassified Reference 060",
+      "description": "当前无法稳定归入服装、云肩、配饰或色卡的数字视觉参考，保留待人工复核。",
+      "tags": [
+        "unclassified",
+        "review-required"
+      ],
+      "dominantColors": [],
+      "programSuitability": [
+        "General"
+      ],
+      "ageSuitability": [
+        "Unknown"
+      ],
+      "productMatchStatus": "NOT_FOUND",
+      "visualSearch": {
+        "enabled": true,
+        "searchKeywords": [
+          "待分类",
+          "视觉参考",
+          "人工复核"
+        ]
+      },
+      "referenceImages": [
+        "extracted/unclassified/UNCLASSIFIED_060/placeholder.jpg"
+      ],
+      "notes": "classification_basis=technical-non-costume; category=UNCLASSIFIED，禁止在复核前推断具体资产类型；商品身份、链接、价格、店铺与 SKU 均未记录。",
+      "image": {
+        "width": 1,
+        "height": 1,
+        "sha256": "14be0c7aa11cca1e78f0966176b286a6d36d00ec64be027775dfeb33d8e2dfdf",
+        "format": "jpg"
+      }
+    }
+  ]
+}
