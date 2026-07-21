@@ -1,0 +1,42 @@
+{
+  "result": "PASS",
+  "expectedImages": 746,
+  "actualImages": 746,
+  "sourceStats": {
+    "commercial_reference": {
+      "archive": "1.zip",
+      "allFiles": 311,
+      "imageFiles": 311
+    },
+    "yunjian_reference": {
+      "archive": "9云肩.zip",
+      "allFiles": 50,
+      "imageFiles": 50
+    },
+    "stage_outfit_design": {
+      "archive": "stage-outfit-design (7).zip",
+      "allFiles": 303,
+      "imageFiles": 254
+    },
+    "color_palette": {
+      "archive": "压缩包.zip",
+      "allFiles": 131,
+      "imageFiles": 131
+    }
+  },
+  "categorySummary": {
+    "COMMERCIAL_COSTUME_REFERENCE": 311,
+    "YUNJIAN": 50,
+    "OUTFIT_MASK": 48,
+    "STAGE_OUTFIT_ASSET": 172,
+    "STAGE_OUTFIT_PREVIEW": 28,
+    "COLOR_PALETTE": 137
+  },
+  "duplicateGroups": 114,
+  "brokenFiles": 0,
+  "notes": [
+    "全部 746 张图片已提取并进入索引。",
+    "1.zip 尚未逐张人工语义细分，当前保留为可检索的商业服装参考集合。",
+    "未编造商品链接、品牌、价格或店铺信息。"
+  ]
+}

@@ -1,0 +1,806 @@
+{
+  "duplicateGroups": [
+    {
+      "sha256": "6967db3afd5bb80059623a06fdb0a892aa234c179fb7543e2927727d04f5fc4f",
+      "files": [
+        "images/commercial_reference/IMG_13224.jpg",
+        "images/commercial_reference/IMG_13228.jpg"
+      ]
+    },
+    {
+      "sha256": "219b735035f994c5047ae0d83fd780f01d1149ca8f721072b0cb6db3bae2629d",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/accent-mask-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-boy-basic-white/accent-mask-front-left.png"
+      ]
+    },
+    {
+      "sha256": "b39e2e8738f2c0f69ed2a4c4f4003249a5abfb67abe1d83ccf613c713ffc5978",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/accent-mask-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-boy-basic-white/accent-mask-front-right.png"
+      ]
+    },
+    {
+      "sha256": "1408d8627bed981748004bfb15b2b5f34ac3d70b2f4c8c143ddb7d55c7a7ad47",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/accent-mask-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-boy-basic-white/accent-mask-front.png"
+      ]
+    },
+    {
+      "sha256": "7ad1a32bef88d7b77dd5c11ca7829011d7220250a454856d8f0883191c6a00a5",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/lower-mask-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-boy-basic-white/lower-mask-front-left.png"
+      ]
+    },
+    {
+      "sha256": "bc875311d26f920ab84c1dc3cc7375061b96ca959da2c2e7df8944b06b7b56f9",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/lower-mask-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-boy-basic-white/lower-mask-front-right.png"
+      ]
+    },
+    {
+      "sha256": "6090a9207d5327fe5efc11df71a7ae8b65dc27eeefc5ae2e8a559af94dc7074d",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/lower-mask-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-boy-basic-white/lower-mask-front.png"
+      ]
+    },
+    {
+      "sha256": "ae3f161ed7dc204b6a57f2e5691f4c19f0d75f74174e6fcb454af7b611551696",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/accent-mask-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-girl-basic-white/accent-mask-front-left.png"
+      ]
+    },
+    {
+      "sha256": "31931eed9650b3e8d9eee3c75bc0b11f2929cbbeaf5b8a4070749b04bd302d02",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/accent-mask-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-girl-basic-white/accent-mask-front-right.png"
+      ]
+    },
+    {
+      "sha256": "4dee8a7cac8a3af0fbe72631818e98a77d44c3539945328de82f7ed4c81c6acf",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/accent-mask-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-girl-basic-white/accent-mask-front.png"
+      ]
+    },
+    {
+      "sha256": "722d241823c8e8578a222490a40cd3305741bf67d1dbab2df61671183e3b67f6",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/lower-mask-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-girl-basic-white/lower-mask-front-left.png"
+      ]
+    },
+    {
+      "sha256": "5bed2ac7be21f7c59afcb49cbb5278758522ee04a43621834cc805d728b6f50e",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/lower-mask-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-girl-basic-white/lower-mask-front-right.png"
+      ]
+    },
+    {
+      "sha256": "83f5eedf5455afcf7d462383aebda8ee43c333a6526b119e30793624ec5c6cb2",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/lower-mask-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-girl-basic-white/lower-mask-front.png"
+      ]
+    },
+    {
+      "sha256": "e1d7ae7d665282bb5c5b2e3328a42eb9c07f1c4d22fbd22f73eed7015e550b0d",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/accent-mask-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-boy-basic-white/accent-mask-front-left.png"
+      ]
+    },
+    {
+      "sha256": "c60149479f50ed749ab3322e08012d93b717e6a133a24027ab1c27731c4630a8",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/accent-mask-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-boy-basic-white/accent-mask-front-right.png"
+      ]
+    },
+    {
+      "sha256": "b10b78bc009361c4aa9c45668044a4a9c1b7cac5e70360077001977b9f091635",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/accent-mask-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-boy-basic-white/accent-mask-front.png"
+      ]
+    },
+    {
+      "sha256": "bbccdb294d898e5adcb1f3cc98f35a4d8dcfc4248b75fd311e402d13ead20d2b",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/lower-mask-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-boy-basic-white/lower-mask-front-left.png"
+      ]
+    },
+    {
+      "sha256": "5cb4da385761032abbdd6099a3a22da7b815cfdf71351fcb7092b6ac3f35bcb0",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/lower-mask-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-boy-basic-white/lower-mask-front-right.png"
+      ]
+    },
+    {
+      "sha256": "b383c68cdeb80146be2f3ba5bf3266d758549d4114c76b88300d3593e7c11360",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/lower-mask-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-boy-basic-white/lower-mask-front.png"
+      ]
+    },
+    {
+      "sha256": "cf2b54e5e5dab80f9235636b6040fe1677b28d10d92b76158ec5eccd15101ab5",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/accent-mask-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-girl-basic-white/accent-mask-front-left.png"
+      ]
+    },
+    {
+      "sha256": "2446e0ede40a2d4e2c5b069694298db0031429d5731083a9452691ca56840998",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/accent-mask-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-girl-basic-white/accent-mask-front-right.png"
+      ]
+    },
+    {
+      "sha256": "3b4466a9480eec9aa66fd71e4f358da5d83c95f7ce6b58f7b4b05a452c57651f",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/accent-mask-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-girl-basic-white/accent-mask-front.png"
+      ]
+    },
+    {
+      "sha256": "e0ebd32a4b0e7d3881434590496d85084da8801cf70a78d15b25b2cdacb95dff",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/lower-mask-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-girl-basic-white/lower-mask-front-left.png"
+      ]
+    },
+    {
+      "sha256": "808c187047703175eae1808a529bbc4258ac123686500421786efdac4f4246d6",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/lower-mask-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-girl-basic-white/lower-mask-front-right.png"
+      ]
+    },
+    {
+      "sha256": "279c98ab9e5835463ccfb8b211c6da4752f663085ca8b16918151d2b1de2a92f",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/lower-mask-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-girl-basic-white/lower-mask-front.png"
+      ]
+    },
+    {
+      "sha256": "15bc64906ce96fde392c111c09b46f30ad9f4f9006b6c8861645da69f0a80f11",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-boy-basic-white/accent-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-boy-basic-white/accent-front-left.png"
+      ]
+    },
+    {
+      "sha256": "4095ed98a3daf9c3805843a23ba906a0512020e967aaab52cd16cf9a5d6729e2",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-boy-basic-white/accent-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-boy-basic-white/accent-front-right.png"
+      ]
+    },
+    {
+      "sha256": "c2258de4d4cf02f9d344a932d8d2b8e7328f0249c6ef9deae087f553528915cc",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-boy-basic-white/accent-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-boy-basic-white/accent-front.png"
+      ]
+    },
+    {
+      "sha256": "85eafa2dccdf24729787cb70f83116761df29dd995ff97fdfb00dcbfba61d0c3",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-boy-basic-white/footwear-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-boy-basic-white/footwear-front-left.png"
+      ]
+    },
+    {
+      "sha256": "806ca6a36f103527f49af7bbcedab851247eca09f246dc4d863faba7f02cfacc",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-boy-basic-white/footwear-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-boy-basic-white/footwear-front-right.png"
+      ]
+    },
+    {
+      "sha256": "bcba975e191e34e80129bac92e283fdea6a10bdfc74a5a9154ecbbc60f9241b1",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-boy-basic-white/footwear-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-boy-basic-white/footwear-front.png"
+      ]
+    },
+    {
+      "sha256": "f9236375b69538b5607d10b86b53492c5cd5aeb99da565380b4c92cec7ec9230",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-boy-basic-white/lower-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-boy-basic-white/lower-front-left.png"
+      ]
+    },
+    {
+      "sha256": "8555703fc92af39a748814f9910d35bf6bb8a14bcb65fb759c835555ff6fad9a",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-boy-basic-white/lower-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-boy-basic-white/lower-front-right.png"
+      ]
+    },
+    {
+      "sha256": "3d564eee15660c8cb2aa309629df31df0aa640021f6f3d3c1771284a96580da3",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-boy-basic-white/lower-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-boy-basic-white/lower-front.png"
+      ]
+    },
+    {
+      "sha256": "01a42acf47203e7e906637baeff736db47f13194f17b3de51e8a25a157f916e0",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-boy-basic-white/upper-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-boy-basic-white/upper-front-left.png"
+      ]
+    },
+    {
+      "sha256": "a13226cf277f46c99dbf13e6421eefc8560635403617e6c2ea268a64a3e99aff",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-boy-basic-white/upper-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-boy-basic-white/upper-front-right.png"
+      ]
+    },
+    {
+      "sha256": "904beae7aeb2dc7ae9d2e3e85d0c92d25084b30f63d1fb6214b701bb1b3e4a3d",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-boy-basic-white/upper-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-boy-basic-white/upper-front.png"
+      ]
+    },
+    {
+      "sha256": "7a43494df842c4b3a45055d646ed261ea0dee32a5cbd8cf03fc0d3a4749bed79",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-girl-basic-white/accent-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-girl-basic-white/accent-front-left.png"
+      ]
+    },
+    {
+      "sha256": "0593506c020947b679f618586e33d75dfd2a6ec1b4371c75500aa998ce208959",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-girl-basic-white/accent-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-girl-basic-white/accent-front-right.png"
+      ]
+    },
+    {
+      "sha256": "e06e4a8e07058074d18a8b8fd7ec59ff6719a0385b76fd4cbe163e42d400ad52",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-girl-basic-white/accent-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-girl-basic-white/accent-front.png"
+      ]
+    },
+    {
+      "sha256": "c82c95782ce3f06b227a02d5674ec6db7b26119c47b52d5888e4e81546636308",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-girl-basic-white/footwear-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-girl-basic-white/footwear-front-left.png"
+      ]
+    },
+    {
+      "sha256": "251c4f6a95f44d1a4fede57c1748aba364830da16dd4c7c033e0ee295d382c5f",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-girl-basic-white/footwear-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-girl-basic-white/footwear-front-right.png"
+      ]
+    },
+    {
+      "sha256": "d6394d11854d6c954f291d10dd0a7b8249b2500ebabd0d45f9b93d73b296984a",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-girl-basic-white/footwear-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-girl-basic-white/footwear-front.png"
+      ]
+    },
+    {
+      "sha256": "2a4b166d9e99c09e06950aabed489b5ae402cd4d1c5161bbb8755a80f0fa131b",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-girl-basic-white/lower-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-girl-basic-white/lower-front-left.png"
+      ]
+    },
+    {
+      "sha256": "989511134ee54b0a4e056186c2dee0c18efc761c5f606fcf835272848427ea46",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-girl-basic-white/lower-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-girl-basic-white/lower-front-right.png"
+      ]
+    },
+    {
+      "sha256": "da009a036c8c90ab9095bf4f4b2fd27039b41039034183345ad7f3dcfcf798d5",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-girl-basic-white/lower-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-girl-basic-white/lower-front.png"
+      ]
+    },
+    {
+      "sha256": "0a4451aea79357d317fdfff6651012e031db5d2525546241ba81a2f8c1de28f0",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-girl-basic-white/upper-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-girl-basic-white/upper-front-left.png"
+      ]
+    },
+    {
+      "sha256": "e711b460ff64a44e09291f88ca330b9f5894c9fadcd762e8e448cce95d8b14cb",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-girl-basic-white/upper-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-girl-basic-white/upper-front-right.png"
+      ]
+    },
+    {
+      "sha256": "69dbad9030b04eac5f5d9ed0c3ccc7138e230f9039ff2c6d384adee8da3f5a4e",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/primary-girl-basic-white/upper-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/primary-girl-basic-white/upper-front.png"
+      ]
+    },
+    {
+      "sha256": "1898996e906ae755412dfd564dfc433fc92d021a8d06a1cef0050f6d02ada364",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-boy-basic-white/accent-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-boy-basic-white/accent-front-left.png"
+      ]
+    },
+    {
+      "sha256": "98f78e3a943fa71bdc3c6ba35fe7349f070b33322f97563d657b5661bfb366c2",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-boy-basic-white/accent-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-boy-basic-white/accent-front-right.png"
+      ]
+    },
+    {
+      "sha256": "bd2f392d4e91b27992bc11dcdbb59d6818b0ffe293f5928544c5aa451a8a43ef",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-boy-basic-white/accent-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-boy-basic-white/accent-front.png"
+      ]
+    },
+    {
+      "sha256": "a955bc96df22581b2110f3aba6eb86ed45de5edb1ec755664e8a4a256e27b952",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-boy-basic-white/footwear-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-boy-basic-white/footwear-front-left.png"
+      ]
+    },
+    {
+      "sha256": "1846d808f4fc0d2ba14ac923ca52f762b6e454e372062b77bab42e070066a96b",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-boy-basic-white/footwear-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-boy-basic-white/footwear-front-right.png"
+      ]
+    },
+    {
+      "sha256": "889184c7eee5060cc3738fcefd06f93908ea15604cd44f5f27faed2dc5b05781",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-boy-basic-white/footwear-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-boy-basic-white/footwear-front.png"
+      ]
+    },
+    {
+      "sha256": "dbdeb2ccfeecd5d741aeb4720262b137ca8e0e915007f76db0e0423a17327586",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-boy-basic-white/lower-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-boy-basic-white/lower-front-left.png"
+      ]
+    },
+    {
+      "sha256": "c62c036ce1fba4e33f723202ee67352f03c1e5df32705066ce0879f312725cd4",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-boy-basic-white/lower-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-boy-basic-white/lower-front-right.png"
+      ]
+    },
+    {
+      "sha256": "cbadb0f6d968d223905f6bcdc8dab606ae7d38ffc482d8ff1774f5bfafa50bff",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-boy-basic-white/lower-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-boy-basic-white/lower-front.png"
+      ]
+    },
+    {
+      "sha256": "7c9ba6f5c0f29cae8cdd60dfb4a33a3997bed6a10fa8c6fe5027f729b2548f37",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-boy-basic-white/upper-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-boy-basic-white/upper-front-left.png"
+      ]
+    },
+    {
+      "sha256": "bbf0b7996860b0d0e4f3654369dc353513dadb8c83bf650e182f74c7693dfc42",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-boy-basic-white/upper-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-boy-basic-white/upper-front-right.png"
+      ]
+    },
+    {
+      "sha256": "fcc0734e9a3f730504b9fe032643deab03e5989aac5bf8c41c493eb95d04176b",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-boy-basic-white/upper-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-boy-basic-white/upper-front.png"
+      ]
+    },
+    {
+      "sha256": "a5c9a3c815ab1514283a4c591bb289d543a7809fff53d1763b668a2e72f051a8",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-girl-basic-white/accent-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-girl-basic-white/accent-front-left.png"
+      ]
+    },
+    {
+      "sha256": "4dfdcf7165ef0a283934a503c726beefdce118addaa5b8787b129d920122975f",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-girl-basic-white/accent-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-girl-basic-white/accent-front-right.png"
+      ]
+    },
+    {
+      "sha256": "78381c870d0d21f58fdbdebd02fd4e974606dad0befa28141dffd022ed0d2924",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-girl-basic-white/accent-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-girl-basic-white/accent-front.png"
+      ]
+    },
+    {
+      "sha256": "cb682c0304dc0d333a80c508a6c005a5c365a69f2b8dcdd8dfd48b9944fb348b",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-girl-basic-white/footwear-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-girl-basic-white/footwear-front-left.png"
+      ]
+    },
+    {
+      "sha256": "321d7436271da0900ee7103928d412977ce36b54124e8e346fc5fdb742cfd549",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-girl-basic-white/footwear-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-girl-basic-white/footwear-front-right.png"
+      ]
+    },
+    {
+      "sha256": "551699726a1c179aafa8e024d415ab45a31182f89313fcc3acb157992bbaa458",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-girl-basic-white/footwear-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-girl-basic-white/footwear-front.png"
+      ]
+    },
+    {
+      "sha256": "992826cee483bc6014ae637a64d529927e71f9696eb5edf873cc0a03b0d16f60",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-girl-basic-white/lower-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-girl-basic-white/lower-front-left.png"
+      ]
+    },
+    {
+      "sha256": "ecc2e3ab94d4a5bd4a354b5eebde59c3f4a35f3849b9c7f27c083079706f8c07",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-girl-basic-white/lower-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-girl-basic-white/lower-front-right.png"
+      ]
+    },
+    {
+      "sha256": "ba8ba8c625e39932aba427530b3016a003367822b1ca4450f5671385fe8ba2d7",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-girl-basic-white/lower-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-girl-basic-white/lower-front.png"
+      ]
+    },
+    {
+      "sha256": "5f423c82013683e7a409eb5f4a607388f3acdfa81d7fe3fba9f29807fa346b65",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-girl-basic-white/upper-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-girl-basic-white/upper-front-left.png"
+      ]
+    },
+    {
+      "sha256": "c3e6f76cad6295f7d3575fbf327798d1f621f12fcb08b1e7d9988c4cad6dd99e",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-girl-basic-white/upper-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-girl-basic-white/upper-front-right.png"
+      ]
+    },
+    {
+      "sha256": "db406030871d8e33cbfccb261d462169cf78bdbc058739149fd7a5ab9f13fe73",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/overlays/teen-girl-basic-white/upper-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/teen-girl-basic-white/upper-front.png"
+      ]
+    },
+    {
+      "sha256": "56aa73b8fe1232b70417b1ab56658ed50757ec7319abe19bd4a12fa3a8a2fa49",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-boy-basic-white-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/previews/primary-boy-basic-white-front-left.png"
+      ]
+    },
+    {
+      "sha256": "b39029fbe8ee1a8d621feadeba662a2e2502f9619ed2dd324c5cbd1c8c7888d6",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-boy-basic-white-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/previews/primary-boy-basic-white-front-right.png"
+      ]
+    },
+    {
+      "sha256": "61823ba8c377def11cef6415edd07b000b50b39be011a05be7f9413e0c62e384",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-boy-basic-white-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/previews/primary-boy-basic-white-front.png"
+      ]
+    },
+    {
+      "sha256": "3b06fe5d3023e2bae75a33275ebbbf0b8c066a0f1968da7daa7ff18befd4a686",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-girl-basic-white-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/previews/primary-girl-basic-white-front-left.png"
+      ]
+    },
+    {
+      "sha256": "361555ab43f4765ab25bc5c3159658c951cba0267ed0b667d8daa6a306b9b182",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-girl-basic-white-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/previews/primary-girl-basic-white-front-right.png"
+      ]
+    },
+    {
+      "sha256": "ce978e5ec378e36f17c83ce43d81145ec6578a2036a7dea34d4c592e96522c5e",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-girl-basic-white-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/previews/primary-girl-basic-white-front.png"
+      ]
+    },
+    {
+      "sha256": "8c130b2fcaed56ca0f1c204fe09f25650bfbeedfb0917de5a051d9dd6238cd3e",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-boy-basic-white-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/previews/teen-boy-basic-white-front-left.png"
+      ]
+    },
+    {
+      "sha256": "482759dd9471cc90c58e0ef84e4537e5c14173677425c0ed48f3bef8fd5bb54d",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-boy-basic-white-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/previews/teen-boy-basic-white-front-right.png"
+      ]
+    },
+    {
+      "sha256": "9d18b18c7074b61f816ea0a9bef10cc221b17b63d0cf5066f4a6b4a4de848bc9",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-boy-basic-white-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/previews/teen-boy-basic-white-front.png"
+      ]
+    },
+    {
+      "sha256": "c6409a4f2abac2f4b39ed5def71f83d083eca4b3c5e4d77d85170c1dd97e5841",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-girl-basic-white-front-left.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/previews/teen-girl-basic-white-front-left.png"
+      ]
+    },
+    {
+      "sha256": "d62431c048f7df886656b434db59f2411b0dbbd0ff20a3b24508dc6ebdb4edc5",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-girl-basic-white-front-right.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/previews/teen-girl-basic-white-front-right.png"
+      ]
+    },
+    {
+      "sha256": "3e4c2bdefa3a2251b035fa3b96da01607fce417d5c2f84426244ae75ba77cdc9",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-girl-basic-white-front.png",
+        "images/stage_outfit_design/art-delivery/outfit-003/previews/teen-girl-basic-white-front.png"
+      ]
+    },
+    {
+      "sha256": "057deadcf9228b65ae2d0e60b9e2ebadb58ef5237c4895038122fecbd08b6e49",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/accessories/cloud-collars/CC-001-primary-boy.png",
+        "images/stage_outfit_design/public/outfit-004/cloud-collars/CC-001-primary-boy.png"
+      ]
+    },
+    {
+      "sha256": "7801f0ad11df0bf91291699b50600c0ce09f78c6ccfb638e6d371bdf63b81732",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/accessories/cloud-collars/CC-002-primary-girl.png",
+        "images/stage_outfit_design/public/outfit-004/cloud-collars/CC-002-primary-girl.png"
+      ]
+    },
+    {
+      "sha256": "1190fd3d886317d0eb07644317ee1d5faab3e5b6336920600fc033f23323fa17",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/accessories/cloud-collars/CC-003-teen-boy.png",
+        "images/stage_outfit_design/public/outfit-004/cloud-collars/CC-003-teen-boy.png"
+      ]
+    },
+    {
+      "sha256": "63a380203ceee6b28856a9b1058c5531ecf29335f5d2f25c30f7cac515bd5566",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/accessories/cloud-collars/CC-004-teen-girl.png",
+        "images/stage_outfit_design/public/outfit-004/cloud-collars/CC-004-teen-girl.png"
+      ]
+    },
+    {
+      "sha256": "b7d079cfefc449de2d0d0800862e177114c1afa96017c88d7e14a645de8e34d7",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/base-garments/primary-boy-base.png",
+        "images/stage_outfit_design/art-delivery/outfit-004/gate-01-final-review-pack/primary-boy-base-final.png",
+        "images/stage_outfit_design/public/outfit-004/base-garments/primary-boy-base.png"
+      ]
+    },
+    {
+      "sha256": "df2bbf51689630a605d90a20d1b5d4d314c361feaf8b381eea47becb2ec8c2d5",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/base-garments/primary-girl-base.png",
+        "images/stage_outfit_design/art-delivery/outfit-004/gate-01-final-review-pack/primary-girl-base-final.png",
+        "images/stage_outfit_design/public/outfit-004/base-garments/primary-girl-base.png"
+      ]
+    },
+    {
+      "sha256": "91eb3e697549646490ca0ec61ebaae3b22c2591c570e49a26b17eefe77489cd8",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/base-garments/teen-boy-base.png",
+        "images/stage_outfit_design/art-delivery/outfit-004/gate-01-final-review-pack/teen-boy-base-final.png",
+        "images/stage_outfit_design/public/outfit-004/base-garments/teen-boy-base.png"
+      ]
+    },
+    {
+      "sha256": "38eefa6d32646263c5d04a61c70d46ac630a5bcc887ccc0a81ff1315639c7313",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/base-garments/teen-girl-base.png",
+        "images/stage_outfit_design/art-delivery/outfit-004/gate-01-final-review-pack/teen-girl-base-final.png",
+        "images/stage_outfit_design/public/outfit-004/base-garments/teen-girl-base.png"
+      ]
+    },
+    {
+      "sha256": "5650dc9d6314d0e5a1ee40243b8bbbbdb83936fd4efe8f230731252dc2578b6d",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/design-confirmation-v4/primary-boy-basic-white.png",
+        "images/stage_outfit_design/public/outfit-004/v4/primary-boy-basic-white.png"
+      ]
+    },
+    {
+      "sha256": "68b0523b46e8b35794810751ea9e7c2a95371dbd0f6a279cd6665243da6170f9",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/design-confirmation-v4/primary-girl-basic-white.png",
+        "images/stage_outfit_design/public/outfit-004/v4/primary-girl-basic-white.png"
+      ]
+    },
+    {
+      "sha256": "867ddba5d49e0f1dba49d96ccfb64f7806a6a42d780a5743f9678e8697311c88",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/design-confirmation-v4/teen-boy-basic-white.png",
+        "images/stage_outfit_design/public/outfit-004/v4/teen-boy-basic-white.png"
+      ]
+    },
+    {
+      "sha256": "2f5bb04aac74b044a1696158f6ae2098ec3c534288e72928098c6f77e3cbb17e",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/design-confirmation-v4/teen-girl-basic-white.png",
+        "images/stage_outfit_design/public/outfit-004/v4/teen-girl-basic-white.png"
+      ]
+    },
+    {
+      "sha256": "c72b8d1466b1be297e27d0f235f107fe61e68f0f84e58df9ed46df2aca98185c",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/design-confirmation-v5/primary-boy-basic-white.png",
+        "images/stage_outfit_design/public/outfit-004/v5/primary-boy-basic-white.png"
+      ]
+    },
+    {
+      "sha256": "fd92a31eb31293685c60459706f81a0dec05063e86c6b456adab6820439e21c2",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/design-confirmation-v5/primary-girl-basic-white.png",
+        "images/stage_outfit_design/public/outfit-004/v5/primary-girl-basic-white.png"
+      ]
+    },
+    {
+      "sha256": "a1a7e0b8258e90ddfa261a94701512f30f95a785d8a1fa1b4690ba1e0bfce685",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/design-confirmation-v5/teen-boy-basic-white.png",
+        "images/stage_outfit_design/public/outfit-004/v5/teen-boy-basic-white.png"
+      ]
+    },
+    {
+      "sha256": "7443309ae4f5aef51272affdf414d13b94aec40e90fed9d5a759a046bb5f146d",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/design-confirmation-v5/teen-girl-basic-white.png",
+        "images/stage_outfit_design/public/outfit-004/v5/teen-girl-basic-white.png"
+      ]
+    },
+    {
+      "sha256": "eaa8d07639a5c1d71e75894b20134df08ccce95e317be8797aa064847d44e31a",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/gate-04-team-stage-validation/forty-person-stage-matrix.png",
+        "images/stage_outfit_design/public/outfit-004/gate-04/forty-person-stage-matrix.png"
+      ]
+    },
+    {
+      "sha256": "6655aa29f4d302e412d2ba38af9e7db5866d9b8fa3a9dd836bf02814cc47ea27",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/gate-04-team-stage-validation/four-role-lighting-matrix.png",
+        "images/stage_outfit_design/public/outfit-004/gate-04/four-role-lighting-matrix.png"
+      ]
+    },
+    {
+      "sha256": "db82d9e1227d7b4c9a10261e79289f433e01c4f5daf88a4d3f85789215c0bb28",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/gate-04-team-stage-validation/twelve-person-formation-matrix.png",
+        "images/stage_outfit_design/public/outfit-004/gate-04/twelve-person-formation-matrix.png"
+      ]
+    },
+    {
+      "sha256": "8bf69bf1596f9343122f2b168a204ea5e5a90bc2874be298331fb134bec816e6",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/palette/free/free-four-role-composition.png",
+        "images/stage_outfit_design/public/outfit-004/palette/free-four-role-composition.png"
+      ]
+    },
+    {
+      "sha256": "64e363c5bc172483ba1f8b22c2d396a3ebec4e985dce1e5fac2fbcd2ed990180",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/palette/premium/premium-four-role-composition.png",
+        "images/stage_outfit_design/public/outfit-004/palette/premium-four-role-composition.png"
+      ]
+    },
+    {
+      "sha256": "72cce415e70d7d046e04bafc12ebee0d8c9a604ffc2012f6a5899cca2d6b56f1",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/palette/signature/signature-four-role-composition.png",
+        "images/stage_outfit_design/public/outfit-004/palette/signature-four-role-composition.png"
+      ]
+    },
+    {
+      "sha256": "1a0469247852ef1a469109b16f30fbab96bd449b74be6d53dfe187e0163cf908",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/premium-direction-boards/direction-a-folded-pages.png",
+        "images/stage_outfit_design/public/outfit-004/direction-a-folded-pages.png"
+      ]
+    },
+    {
+      "sha256": "1cb6da8a0ad67b019a4d77794fd210e5cca63222f0cc7c9f446af9a6a0a02aea",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/premium-direction-boards/direction-b-eaves-architecture.png",
+        "images/stage_outfit_design/public/outfit-004/direction-b-eaves-architecture.png"
+      ]
+    },
+    {
+      "sha256": "2f93af051b70126a1f4a4d006f096b8d23f6bfeb7e0fcad7bf715d2cc3329531",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/premium-direction-boards/direction-c-jade-negative-space.png",
+        "images/stage_outfit_design/public/outfit-004/direction-c-jade-negative-space.png"
+      ]
+    },
+    {
+      "sha256": "6ef0c8fec44f7fdba0c2551b3ae2a46f4903ffce7cda996b41fb4bc0b42e7074",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/premium-lightweight-v1/primary-boy-basic-white.png",
+        "images/stage_outfit_design/public/outfit-004/lightweight-v1/primary-boy-basic-white.png"
+      ]
+    },
+    {
+      "sha256": "9e7e74a72534a9f859ebe6aa21dbd958111b177ea4e0cde9556943a1fa47c5a3",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/premium-lightweight-v1/primary-girl-basic-white.png",
+        "images/stage_outfit_design/public/outfit-004/lightweight-v1/primary-girl-basic-white.png"
+      ]
+    },
+    {
+      "sha256": "6382714c2cf45e89f6497c62122413e34bcf0d5b238775c1ae54763430f45b60",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/premium-lightweight-v1/teen-boy-basic-white.png",
+        "images/stage_outfit_design/public/outfit-004/lightweight-v1/teen-boy-basic-white.png"
+      ]
+    },
+    {
+      "sha256": "960c4264c344bfda3bc7056331cffc83ef581b5a8595cf375c769bac773a82ce",
+      "files": [
+        "images/stage_outfit_design/art-delivery/outfit-004/premium-lightweight-v1/teen-girl-basic-white.png",
+        "images/stage_outfit_design/public/outfit-004/lightweight-v1/teen-girl-basic-white.png"
+      ]
+    }
+  ]
+}

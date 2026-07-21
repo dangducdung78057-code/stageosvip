@@ -1,0 +1,2007 @@
+{
+  "schemaVersion": "1.0",
+  "category": "YUNJIAN",
+  "count": 50,
+  "assets": [
+    {
+      "assetId": "YUNJIAN_0001",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12790.jpg",
+      "originalArchivePath": "IMG_12790.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12790.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0001",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "ed48f6558df2a32bd8026493e46e97f7c11c3ee46a1060161cefba3f7af279a5"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0002",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12791.jpg",
+      "originalArchivePath": "IMG_12791.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12791.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0002",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "4db723c6cc66a3952e78c4dd4a58d4a0da7d4302972655f6f1068e85776d76ab"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0003",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12792.jpg",
+      "originalArchivePath": "IMG_12792.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12792.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0003",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "48a6bef4b1dcc31e72aa780a50cd165cd8488bd393998eb1442288cfd6a205df"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0004",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12793.jpg",
+      "originalArchivePath": "IMG_12793.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12793.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0004",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "48008548b5c901c22d585f524b902f49948c60a0d1e559e5390cab6838bb613a"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0005",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12794.jpg",
+      "originalArchivePath": "IMG_12794.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12794.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0005",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "06b3bc612ea6ad580483ff8b15a3fcabcedcb3e5806e162d2f1f1ae4b5c60fb3"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0006",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12795.jpg",
+      "originalArchivePath": "IMG_12795.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12795.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0006",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "51d9144422633a753f605672401bfd3bfc28d2db7e3bbb95dbdb2221ba75aa86"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0007",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12796.jpg",
+      "originalArchivePath": "IMG_12796.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12796.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0007",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "9144166cc88693d21d7faffe0433871bff8ad25edef6ba9b76459cb717018fa8"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0008",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12797.jpg",
+      "originalArchivePath": "IMG_12797.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12797.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0008",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "351bff9e14c0fccfeba730cb7d56cd7c0c11fee15abe08f2c691192fb8b15386"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0009",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12798.jpg",
+      "originalArchivePath": "IMG_12798.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12798.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0009",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "1230d218b88cbac6b311b6501b66f5292f1fc0e4df1a7a31af46ba9d0725a7a0"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0010",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12799.jpg",
+      "originalArchivePath": "IMG_12799.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12799.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0010",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "8588c0952495537ffb943f609d3f49d329ffcce737e1f65b708ab76e4ebbc025"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0011",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12800.jpg",
+      "originalArchivePath": "IMG_12800.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12800.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0011",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 2037,
+        "sha256": "ac19471a6f2d250a9b6913aaf4be186097b180f26afb95473dba0c3062929e85"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0012",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12801.jpg",
+      "originalArchivePath": "IMG_12801.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12801.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0012",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 2036,
+        "sha256": "942befd3a8c142af595dbfa577fa7749cb27274cdb2beac9ec50c6e49f9530e2"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0013",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12802.jpg",
+      "originalArchivePath": "IMG_12802.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12802.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0013",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 2036,
+        "sha256": "1abfb4448b0cc9d295c6c31099f709d0a93f2a302c02e5770a5d0df6a7390486"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0014",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12803.jpg",
+      "originalArchivePath": "IMG_12803.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12803.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0014",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 2036,
+        "sha256": "b5981725c12bbddb4e722ad81c6557bf33758dd605ecf4892a7e618be1c7af5e"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0015",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12804.jpg",
+      "originalArchivePath": "IMG_12804.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12804.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0015",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 2036,
+        "sha256": "8f63b28c7088ac1a1519fef95a6a99847b13fa7d6867bbb78bf7149e097b01d4"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0016",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12805.jpg",
+      "originalArchivePath": "IMG_12805.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12805.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0016",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 2036,
+        "sha256": "71443f2de2a1079111fd819271c0cb0f566ceea1de37feca5827e40b81136492"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0017",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12806.jpg",
+      "originalArchivePath": "IMG_12806.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12806.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0017",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "43a0c4cd549bb51abbe6d4de384d84a500f661bdae5bfdb173fe8594c0cd22ee"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0018",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12807.jpg",
+      "originalArchivePath": "IMG_12807.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12807.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0018",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "d5b78725db2082572c0b8551602b849931a8078ded0c1281f0645a674fb1e45b"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0019",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12808.jpg",
+      "originalArchivePath": "IMG_12808.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12808.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0019",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "08e46dea891390eb53d071055e516ee105f0caa67e437910dbcaabeb4aa01c67"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0020",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12809.jpg",
+      "originalArchivePath": "IMG_12809.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12809.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0020",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "abd72f4ed9b3adfefe64ff20ab14758d3567b9b95d9c9b08c979965c2490930d"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0021",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12810.jpg",
+      "originalArchivePath": "IMG_12810.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12810.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0021",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1080,
+        "height": 1080,
+        "sha256": "506e4d7756790b6a02571631ae1e830bc36c25a6fa256fe6dd8ee49d332aaf45"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0022",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12811.jpg",
+      "originalArchivePath": "IMG_12811.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12811.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0022",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1134,
+        "sha256": "364bda9e801189821890abbd520b7aaf94995dbfc510630f0f8946d8791a1168"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0023",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12812.jpg",
+      "originalArchivePath": "IMG_12812.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12812.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0023",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1200,
+        "height": 2138,
+        "sha256": "c81842814e5c16b4ba88a31c4f0c45644631b87b90646dff25c5e150d94b7a86"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0024",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12813.jpg",
+      "originalArchivePath": "IMG_12813.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12813.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0024",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1086,
+        "height": 1448,
+        "sha256": "52124a84d0cb3f199002cd18999b1925e145235c3341250e0d49c077382fe653"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0025",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12814.jpg",
+      "originalArchivePath": "IMG_12814.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12814.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0025",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1086,
+        "height": 1448,
+        "sha256": "aec96919527cbd84a2ce72d3623403d8baf3bacfdff4771655e20216d7f13572"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0026",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12815.jpg",
+      "originalArchivePath": "IMG_12815.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12815.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0026",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1086,
+        "height": 1448,
+        "sha256": "ea5c57f0ab6f55f1995f448f4fd746549efc0593a4fd7567f300c36a8048dee4"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0027",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12816.jpg",
+      "originalArchivePath": "IMG_12816.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12816.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0027",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1086,
+        "height": 1448,
+        "sha256": "ace743aca701443eea2bb505c0ff1e9627b7ac87b70204dc9b4a14c8a6cf9b7f"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0028",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12817.jpg",
+      "originalArchivePath": "IMG_12817.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12817.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0028",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1086,
+        "height": 1448,
+        "sha256": "1e3c40dec9f40d72b3942bc4dfa5133d44d852ca632a000e3a105b03c9057741"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0029",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12818.jpg",
+      "originalArchivePath": "IMG_12818.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12818.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0029",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1929,
+        "sha256": "8a25a3cebfa7362575166aed942e684a0b8e9fdad75ae52a93c8437823ed0b74"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0030",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12819.jpg",
+      "originalArchivePath": "IMG_12819.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12819.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0030",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1417,
+        "height": 1890,
+        "sha256": "11d23c68854b306bb1d8d519b44d1da1a7e5379901c89920234c9067702e457b"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0031",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12820.jpg",
+      "originalArchivePath": "IMG_12820.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12820.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0031",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1417,
+        "height": 1890,
+        "sha256": "9049d79d5fde22ee5de98fc48c9dc0b1245ade5f0adf21fbae7341d7d7809a5f"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0032",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12821.jpg",
+      "originalArchivePath": "IMG_12821.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12821.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0032",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "d3f6458f0a159e4c3e4c7357b2dacc04f4fec06306a435477666a3afe8e4c868"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0033",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12822.jpg",
+      "originalArchivePath": "IMG_12822.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12822.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0033",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "319f3c50abcd8710979d2443aaa5c2bd5d3353e229f7a086d2f4d76ef7119526"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0034",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12823.jpg",
+      "originalArchivePath": "IMG_12823.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12823.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0034",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 960,
+        "height": 1280,
+        "sha256": "2895c55328ca6b1f91a5d20a807a83eb25cbbddb803f7638a56c9175ee6c9caf"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0035",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12824.jpg",
+      "originalArchivePath": "IMG_12824.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12824.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0035",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1920,
+        "sha256": "1560a59179d59a69ab19b89cd38193431661d19c0a33622419e06f553cebc000"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0036",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12825.jpg",
+      "originalArchivePath": "IMG_12825.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12825.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0036",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1289,
+        "sha256": "5d46477bc94386e6bd5f4e694caa1340e996aa8e6390ca79f3517fe20977adb6"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0037",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12826.jpg",
+      "originalArchivePath": "IMG_12826.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12826.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0037",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1435,
+        "sha256": "9fe7b9bb1dddfa9229a439ad71571682f5e492f69b0da65f5736fe598cf1e632"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0038",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12827.jpg",
+      "originalArchivePath": "IMG_12827.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12827.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0038",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1435,
+        "sha256": "a0b0d30f8ba5aa62db32b450af7605e65cfe9c2bdd2f57afbcb5a6f67d157948"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0039",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12828.jpg",
+      "originalArchivePath": "IMG_12828.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12828.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0039",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1435,
+        "sha256": "9af95452931c3e63c0960234a0568f316ecc6e4a156cb93ee7b427c4e008dea4"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0040",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12829.jpg",
+      "originalArchivePath": "IMG_12829.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12829.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0040",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1435,
+        "sha256": "3537c41da61d95f5a4be1943e28c592c25209fb8679138a08bfdd99deeb646a4"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0041",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12830.jpg",
+      "originalArchivePath": "IMG_12830.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12830.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0041",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1435,
+        "sha256": "f85609659a43c1f25d4e7700bcf1b8639cf67d55851a8d013ce8ccaa00dd5d37"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0042",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12831.jpg",
+      "originalArchivePath": "IMG_12831.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12831.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0042",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1929,
+        "sha256": "e15dc1a5dae61051314984a07037f5ef9c0fa391350f66e165372c7f24c8a0d9"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0043",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12832.jpg",
+      "originalArchivePath": "IMG_12832.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12832.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0043",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "fd52863f3e52ca0eb23661962141f6fdebdb422aa6ab734d540ba40b60f475fa"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0044",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12833.jpg",
+      "originalArchivePath": "IMG_12833.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12833.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0044",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "0ec79c09431cad41494a34c7180987aa08c51e61411845ba1c47178a9b056b4b"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0045",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12834.jpg",
+      "originalArchivePath": "IMG_12834.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12834.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0045",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "0c612febbdf098d879eea859ebdfbbd9e02ca216d4952cd62961b3e485910d09"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0046",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12835.jpg",
+      "originalArchivePath": "IMG_12835.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12835.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0046",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1440,
+        "height": 1440,
+        "sha256": "7939b9d5c625fe19793bc87948820e553354364f3932c1140d8a0cf296cb8fe1"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0047",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12836.jpg",
+      "originalArchivePath": "IMG_12836.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12836.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0047",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "408d67db1f51379516e6e671d507ac7a6d18be3ddbc1e9af5333f347883118a0"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0048",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12837.jpg",
+      "originalArchivePath": "IMG_12837.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12837.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0048",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "a68a0032d81f4d82a92c108aa3b12bc159dededbd4686ac9abdcadc413829ea4"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0049",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12838.jpg",
+      "originalArchivePath": "IMG_12838.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12838.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0049",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "ebd1ed6f2ad00c944aacd41c1b438932d752794cbf47858dec859e43228be526"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "YUNJIAN_0050",
+      "sourceArchive": "9云肩.zip",
+      "sourceCollection": "yunjian_reference",
+      "originalFileName": "IMG_12839.jpg",
+      "originalArchivePath": "IMG_12839.jpg",
+      "storedPath": "images/yunjian_reference/IMG_12839.jpg",
+      "sourceType": "IMAGE_REFERENCE",
+      "category": "YUNJIAN",
+      "layer": "Shoulder",
+      "status": "DIGITAL_REFERENCE",
+      "title": "Yunjian 0050",
+      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "tags": [
+        "yunjian_reference",
+        "yunjian",
+        "shoulder"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "same_product",
+          "similar_product",
+          "similar_style"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_FOUND",
+      "image": {
+        "width": 1242,
+        "height": 1660,
+        "sha256": "89584a5656bc7aba393e3a84aebdf14f5dd21b84eace1d75f62c3c2bea329d61"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    }
+  ]
+}

@@ -1,0 +1,1879 @@
+{
+  "schemaVersion": "1.0",
+  "category": "OUTFIT_MASK",
+  "count": 48,
+  "assets": [
+    {
+      "assetId": "OUTFIT_MASK_0001",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/accent-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/accent-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0001",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "219b735035f994c5047ae0d83fd780f01d1149ca8f721072b0cb6db3bae2629d"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0002",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/accent-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/accent-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0002",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "b39e2e8738f2c0f69ed2a4c4f4003249a5abfb67abe1d83ccf613c713ffc5978"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0003",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/accent-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/accent-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0003",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "1408d8627bed981748004bfb15b2b5f34ac3d70b2f4c8c143ddb7d55c7a7ad47"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0004",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/lower-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/lower-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0004",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "7ad1a32bef88d7b77dd5c11ca7829011d7220250a454856d8f0883191c6a00a5"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0005",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/lower-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/lower-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0005",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "bc875311d26f920ab84c1dc3cc7375061b96ca959da2c2e7df8944b06b7b56f9"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0006",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/lower-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-boy-basic-white/lower-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0006",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "6090a9207d5327fe5efc11df71a7ae8b65dc27eeefc5ae2e8a559af94dc7074d"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0007",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/accent-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/accent-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0007",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "ae3f161ed7dc204b6a57f2e5691f4c19f0d75f74174e6fcb454af7b611551696"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0008",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/accent-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/accent-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0008",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "31931eed9650b3e8d9eee3c75bc0b11f2929cbbeaf5b8a4070749b04bd302d02"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0009",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/accent-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/accent-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0009",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "4dee8a7cac8a3af0fbe72631818e98a77d44c3539945328de82f7ed4c81c6acf"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0010",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/lower-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/lower-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0010",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "722d241823c8e8578a222490a40cd3305741bf67d1dbab2df61671183e3b67f6"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0011",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/lower-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/lower-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0011",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "5bed2ac7be21f7c59afcb49cbb5278758522ee04a43621834cc805d728b6f50e"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0012",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/lower-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/primary-girl-basic-white/lower-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0012",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "83f5eedf5455afcf7d462383aebda8ee43c333a6526b119e30793624ec5c6cb2"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0013",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/accent-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/accent-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0013",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "e1d7ae7d665282bb5c5b2e3328a42eb9c07f1c4d22fbd22f73eed7015e550b0d"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0014",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/accent-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/accent-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0014",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "c60149479f50ed749ab3322e08012d93b717e6a133a24027ab1c27731c4630a8"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0015",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/accent-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/accent-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0015",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "b10b78bc009361c4aa9c45668044a4a9c1b7cac5e70360077001977b9f091635"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0016",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/lower-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/lower-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0016",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "bbccdb294d898e5adcb1f3cc98f35a4d8dcfc4248b75fd311e402d13ead20d2b"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0017",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/lower-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/lower-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0017",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "5cb4da385761032abbdd6099a3a22da7b815cfdf71351fcb7092b6ac3f35bcb0"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0018",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/lower-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-boy-basic-white/lower-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0018",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "b383c68cdeb80146be2f3ba5bf3266d758549d4114c76b88300d3593e7c11360"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0019",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/accent-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/accent-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0019",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "cf2b54e5e5dab80f9235636b6040fe1677b28d10d92b76158ec5eccd15101ab5"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0020",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/accent-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/accent-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0020",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "2446e0ede40a2d4e2c5b069694298db0031429d5731083a9452691ca56840998"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0021",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/accent-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/accent-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0021",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "3b4466a9480eec9aa66fd71e4f358da5d83c95f7ce6b58f7b4b05a452c57651f"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0022",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/lower-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/lower-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0022",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "e0ebd32a4b0e7d3881434590496d85084da8801cf70a78d15b25b2cdacb95dff"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0023",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/lower-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/lower-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0023",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "808c187047703175eae1808a529bbc4258ac123686500421786efdac4f4246d6"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0024",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/lower-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/masks/teen-girl-basic-white/lower-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0024",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "279c98ab9e5835463ccfb8b211c6da4752f663085ca8b16918151d2b1de2a92f"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0025",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/primary-boy-basic-white/accent-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-boy-basic-white/accent-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0025",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "219b735035f994c5047ae0d83fd780f01d1149ca8f721072b0cb6db3bae2629d"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0026",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/primary-boy-basic-white/accent-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-boy-basic-white/accent-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0026",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "b39e2e8738f2c0f69ed2a4c4f4003249a5abfb67abe1d83ccf613c713ffc5978"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0027",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/primary-boy-basic-white/accent-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-boy-basic-white/accent-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0027",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "1408d8627bed981748004bfb15b2b5f34ac3d70b2f4c8c143ddb7d55c7a7ad47"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0028",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/primary-boy-basic-white/lower-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-boy-basic-white/lower-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0028",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "7ad1a32bef88d7b77dd5c11ca7829011d7220250a454856d8f0883191c6a00a5"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0029",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/primary-boy-basic-white/lower-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-boy-basic-white/lower-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0029",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "bc875311d26f920ab84c1dc3cc7375061b96ca959da2c2e7df8944b06b7b56f9"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0030",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/primary-boy-basic-white/lower-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-boy-basic-white/lower-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0030",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "6090a9207d5327fe5efc11df71a7ae8b65dc27eeefc5ae2e8a559af94dc7074d"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0031",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/primary-girl-basic-white/accent-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-girl-basic-white/accent-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0031",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "ae3f161ed7dc204b6a57f2e5691f4c19f0d75f74174e6fcb454af7b611551696"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0032",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/primary-girl-basic-white/accent-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-girl-basic-white/accent-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0032",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "31931eed9650b3e8d9eee3c75bc0b11f2929cbbeaf5b8a4070749b04bd302d02"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0033",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/primary-girl-basic-white/accent-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-girl-basic-white/accent-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0033",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "4dee8a7cac8a3af0fbe72631818e98a77d44c3539945328de82f7ed4c81c6acf"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0034",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/primary-girl-basic-white/lower-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-girl-basic-white/lower-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0034",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "722d241823c8e8578a222490a40cd3305741bf67d1dbab2df61671183e3b67f6"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0035",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/primary-girl-basic-white/lower-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-girl-basic-white/lower-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0035",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "5bed2ac7be21f7c59afcb49cbb5278758522ee04a43621834cc805d728b6f50e"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0036",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/primary-girl-basic-white/lower-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/primary-girl-basic-white/lower-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0036",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "83f5eedf5455afcf7d462383aebda8ee43c333a6526b119e30793624ec5c6cb2"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0037",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/teen-boy-basic-white/accent-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-boy-basic-white/accent-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0037",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "e1d7ae7d665282bb5c5b2e3328a42eb9c07f1c4d22fbd22f73eed7015e550b0d"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0038",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/teen-boy-basic-white/accent-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-boy-basic-white/accent-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0038",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "c60149479f50ed749ab3322e08012d93b717e6a133a24027ab1c27731c4630a8"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0039",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/teen-boy-basic-white/accent-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-boy-basic-white/accent-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0039",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "b10b78bc009361c4aa9c45668044a4a9c1b7cac5e70360077001977b9f091635"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0040",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/teen-boy-basic-white/lower-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-boy-basic-white/lower-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0040",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "bbccdb294d898e5adcb1f3cc98f35a4d8dcfc4248b75fd311e402d13ead20d2b"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0041",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/teen-boy-basic-white/lower-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-boy-basic-white/lower-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0041",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "5cb4da385761032abbdd6099a3a22da7b815cfdf71351fcb7092b6ac3f35bcb0"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0042",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/teen-boy-basic-white/lower-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-boy-basic-white/lower-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0042",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "b383c68cdeb80146be2f3ba5bf3266d758549d4114c76b88300d3593e7c11360"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0043",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/teen-girl-basic-white/accent-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-girl-basic-white/accent-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0043",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "cf2b54e5e5dab80f9235636b6040fe1677b28d10d92b76158ec5eccd15101ab5"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0044",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/teen-girl-basic-white/accent-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-girl-basic-white/accent-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0044",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "2446e0ede40a2d4e2c5b069694298db0031429d5731083a9452691ca56840998"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0045",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "accent-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/teen-girl-basic-white/accent-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-girl-basic-white/accent-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Accent",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0045",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "accent"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "3b4466a9480eec9aa66fd71e4f358da5d83c95f7ce6b58f7b4b05a452c57651f"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0046",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/teen-girl-basic-white/lower-mask-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-girl-basic-white/lower-mask-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0046",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "e0ebd32a4b0e7d3881434590496d85084da8801cf70a78d15b25b2cdacb95dff"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0047",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/teen-girl-basic-white/lower-mask-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-girl-basic-white/lower-mask-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0047",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "808c187047703175eae1808a529bbc4258ac123686500421786efdac4f4246d6"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_MASK_0048",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "lower-mask-front.png",
+      "originalArchivePath": "art-delivery/outfit-003/masks/teen-girl-basic-white/lower-mask-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/masks/teen-girl-basic-white/lower-mask-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "OUTFIT_MASK",
+      "layer": "Lower",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Outfit Mask 0048",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "outfit_mask",
+        "lower"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "279c98ab9e5835463ccfb8b211c6da4752f663085ca8b16918151d2b1de2a92f"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    }
+  ]
+}

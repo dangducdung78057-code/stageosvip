@@ -1,0 +1,1099 @@
+{
+  "schemaVersion": "1.0",
+  "category": "STAGE_OUTFIT_PREVIEW",
+  "count": 28,
+  "assets": [
+    {
+      "assetId": "OUTFIT_PREVIEW_0001",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "primary-boy-basic-white-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-boy-basic-white-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-boy-basic-white-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0001",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "56aa73b8fe1232b70417b1ab56658ed50757ec7319abe19bd4a12fa3a8a2fa49"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0002",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "primary-boy-basic-white-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-boy-basic-white-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-boy-basic-white-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0002",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "b39029fbe8ee1a8d621feadeba662a2e2502f9619ed2dd324c5cbd1c8c7888d6"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0003",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "primary-boy-basic-white-front.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-boy-basic-white-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-boy-basic-white-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0003",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "61823ba8c377def11cef6415edd07b000b50b39be011a05be7f9413e0c62e384"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0004",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "primary-girl-basic-white-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-girl-basic-white-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-girl-basic-white-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0004",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "3b06fe5d3023e2bae75a33275ebbbf0b8c066a0f1968da7daa7ff18befd4a686"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0005",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "primary-girl-basic-white-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-girl-basic-white-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-girl-basic-white-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0005",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "361555ab43f4765ab25bc5c3159658c951cba0267ed0b667d8daa6a306b9b182"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0006",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "primary-girl-basic-white-front.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-girl-basic-white-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/primary-girl-basic-white-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0006",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "ce978e5ec378e36f17c83ce43d81145ec6578a2036a7dea34d4c592e96522c5e"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0007",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "teen-boy-basic-white-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-boy-basic-white-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-boy-basic-white-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0007",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "8c130b2fcaed56ca0f1c204fe09f25650bfbeedfb0917de5a051d9dd6238cd3e"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0008",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "teen-boy-basic-white-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-boy-basic-white-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-boy-basic-white-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0008",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "482759dd9471cc90c58e0ef84e4537e5c14173677425c0ed48f3bef8fd5bb54d"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0009",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "teen-boy-basic-white-front.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-boy-basic-white-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-boy-basic-white-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0009",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "9d18b18c7074b61f816ea0a9bef10cc221b17b63d0cf5066f4a6b4a4de848bc9"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0010",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "teen-girl-basic-white-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-girl-basic-white-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-girl-basic-white-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0010",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "c6409a4f2abac2f4b39ed5def71f83d083eca4b3c5e4d77d85170c1dd97e5841"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0011",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "teen-girl-basic-white-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-girl-basic-white-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-girl-basic-white-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0011",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "d62431c048f7df886656b434db59f2411b0dbbd0ff20a3b24508dc6ebdb4edc5"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0012",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "teen-girl-basic-white-front.png",
+      "originalArchivePath": "art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-girl-basic-white-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003-release-candidate/outfit-003/previews/teen-girl-basic-white-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0012",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "3e4c2bdefa3a2251b035fa3b96da01607fce417d5c2f84426244ae75ba77cdc9"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0013",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "primary-boy-basic-white-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003/previews/primary-boy-basic-white-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/previews/primary-boy-basic-white-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0013",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "56aa73b8fe1232b70417b1ab56658ed50757ec7319abe19bd4a12fa3a8a2fa49"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0014",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "primary-boy-basic-white-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003/previews/primary-boy-basic-white-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/previews/primary-boy-basic-white-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0014",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "b39029fbe8ee1a8d621feadeba662a2e2502f9619ed2dd324c5cbd1c8c7888d6"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0015",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "primary-boy-basic-white-front.png",
+      "originalArchivePath": "art-delivery/outfit-003/previews/primary-boy-basic-white-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/previews/primary-boy-basic-white-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0015",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "61823ba8c377def11cef6415edd07b000b50b39be011a05be7f9413e0c62e384"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0016",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "primary-girl-basic-white-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003/previews/primary-girl-basic-white-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/previews/primary-girl-basic-white-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0016",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "3b06fe5d3023e2bae75a33275ebbbf0b8c066a0f1968da7daa7ff18befd4a686"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0017",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "primary-girl-basic-white-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003/previews/primary-girl-basic-white-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/previews/primary-girl-basic-white-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0017",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "361555ab43f4765ab25bc5c3159658c951cba0267ed0b667d8daa6a306b9b182"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0018",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "primary-girl-basic-white-front.png",
+      "originalArchivePath": "art-delivery/outfit-003/previews/primary-girl-basic-white-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/previews/primary-girl-basic-white-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0018",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "ce978e5ec378e36f17c83ce43d81145ec6578a2036a7dea34d4c592e96522c5e"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0019",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "teen-boy-basic-white-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003/previews/teen-boy-basic-white-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/previews/teen-boy-basic-white-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0019",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "8c130b2fcaed56ca0f1c204fe09f25650bfbeedfb0917de5a051d9dd6238cd3e"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0020",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "teen-boy-basic-white-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003/previews/teen-boy-basic-white-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/previews/teen-boy-basic-white-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0020",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "482759dd9471cc90c58e0ef84e4537e5c14173677425c0ed48f3bef8fd5bb54d"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0021",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "teen-boy-basic-white-front.png",
+      "originalArchivePath": "art-delivery/outfit-003/previews/teen-boy-basic-white-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/previews/teen-boy-basic-white-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0021",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "9d18b18c7074b61f816ea0a9bef10cc221b17b63d0cf5066f4a6b4a4de848bc9"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0022",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "teen-girl-basic-white-front-left.png",
+      "originalArchivePath": "art-delivery/outfit-003/previews/teen-girl-basic-white-front-left.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/previews/teen-girl-basic-white-front-left.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0022",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "c6409a4f2abac2f4b39ed5def71f83d083eca4b3c5e4d77d85170c1dd97e5841"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0023",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "teen-girl-basic-white-front-right.png",
+      "originalArchivePath": "art-delivery/outfit-003/previews/teen-girl-basic-white-front-right.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/previews/teen-girl-basic-white-front-right.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0023",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "d62431c048f7df886656b434db59f2411b0dbbd0ff20a3b24508dc6ebdb4edc5"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0024",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "teen-girl-basic-white-front.png",
+      "originalArchivePath": "art-delivery/outfit-003/previews/teen-girl-basic-white-front.png",
+      "storedPath": "images/stage_outfit_design/art-delivery/outfit-003/previews/teen-girl-basic-white-front.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0024",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 1024,
+        "height": 1536,
+        "sha256": "3e4c2bdefa3a2251b035fa3b96da01607fce417d5c2f84426244ae75ba77cdc9"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0025",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "outfit-004-V4-preview-mobile.png",
+      "originalArchivePath": "outfit-004-V4-preview-mobile.png",
+      "storedPath": "images/stage_outfit_design/outfit-004-V4-preview-mobile.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0025",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 376,
+        "height": 2612,
+        "sha256": "e35b73fa20a62c9ac4103a13b3858ed52904a11bd99ebdc0bb4e79c931ba5582"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0026",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "outfit-004-V5-summer-preview.png",
+      "originalArchivePath": "outfit-004-V5-summer-preview.png",
+      "storedPath": "images/stage_outfit_design/outfit-004-V5-summer-preview.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0026",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 376,
+        "height": 2612,
+        "sha256": "a84212d576ef086f10b2bb9f2b9d0acb20812f1d833be96188421297919f81cd"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0027",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "outfit-004-gate01-preview.png",
+      "originalArchivePath": "outfit-004-gate01-preview.png",
+      "storedPath": "images/stage_outfit_design/outfit-004-gate01-preview.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0027",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 376,
+        "height": 2977,
+        "sha256": "141a752c962c2f93b9d16e6048cd8dae299775b055f3d32d12790ed11a5deb26"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    },
+    {
+      "assetId": "OUTFIT_PREVIEW_0028",
+      "sourceArchive": "stage-outfit-design (7).zip",
+      "sourceCollection": "stage_outfit_design",
+      "originalFileName": "outfit-004-premium-directions-preview.png",
+      "originalArchivePath": "outfit-004-premium-directions-preview.png",
+      "storedPath": "images/stage_outfit_design/outfit-004-premium-directions-preview.png",
+      "sourceType": "IMPLEMENTATION_IMAGE",
+      "category": "STAGE_OUTFIT_PREVIEW",
+      "layer": "FullBody",
+      "status": "IMPLEMENTATION_ASSET",
+      "title": "Stage Outfit Preview 0028",
+      "description": "StageOS 已交付的数字服装设计、遮罩、预览或配色资产。",
+      "tags": [
+        "stage_outfit_design",
+        "stage_outfit_preview",
+        "fullbody"
+      ],
+      "visualSearch": {
+        "enabled": true,
+        "searchIntent": [
+          "similar_asset",
+          "implementation_reference"
+        ]
+      },
+      "productMetadata": {
+        "captured": false,
+        "productUrl": null,
+        "seller": null,
+        "price": null
+      },
+      "productMatchStatus": "NOT_APPLICABLE",
+      "image": {
+        "width": 376,
+        "height": 2397,
+        "sha256": "230adb76d42c95a2c83cf22ad894c3a6c7384615c0bbffbfa91ce46bf90c592e"
+      },
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+    }
+  ]
+}
