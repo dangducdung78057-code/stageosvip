@@ -13350,11 +13350,20 @@
       "layer": "Shoulder",
       "status": "DIGITAL_REFERENCE",
       "title": "Yunjian 0021",
-      "description": "用户保存的真实网购/视觉参考图片；商品链接未保存，适合视觉检索与设计参考。",
+      "description": "经原图核验：白色底的对称肩领，具有高圆领、扇形侧翼和中央尖形垂片；可见深蓝、青绿与金色视觉配色、花卉和卷曲纹样、珠状垂饰及长蓝色流苏。",
       "tags": [
         "yunjian_reference",
         "yunjian",
-        "shoulder"
+        "shoulder",
+        "bead_like_pendants",
+        "blue_tassels",
+        "fan_side_panels",
+        "floral_motif",
+        "gold_like_accents",
+        "high_round_collar",
+        "pointed_center_panel",
+        "symmetrical_design",
+        "teal_blue_palette"
       ],
       "visualSearch": {
         "enabled": true,
@@ -13376,7 +13385,7 @@
         "height": 1080,
         "sha256": "506e4d7756790b6a02571631ae1e830bc36c25a6fa256fe6dd8ee49d332aaf45"
       },
-      "notes": "未逐张人工语义复核；来源集合与路径已核验。"
+      "notes": "未逐张人工语义复核；来源集合与路径已核验。 后续审计：2026-07-23 原图语义复核为 REVIEWED_CONFIRMED（HIGH），来源 SHA-256 已核验。"
     },
     {
       "assetId": "YUNJIAN_0022",
